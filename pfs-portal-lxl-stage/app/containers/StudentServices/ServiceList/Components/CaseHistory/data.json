@@ -1,0 +1,48 @@
+{
+  "TableData": [
+    {
+      "Today - Tuesday, Junuary 4, 2022": [
+        {
+          "Time": "1:30PM",
+          "Actions": "Resolved By Management"
+        },
+        {
+          "Time": "4:30PM",
+          "Actions": "Meeting Regarding Student Requirement"
+        },
+        {
+          "Time": "7:30PM",
+          "Actions": "Communicated with Students"
+        }
+      ]
+    },
+    {
+      "Yesterday - Monday, Junuary 3, 2022": [
+        {
+          "Time": "1:30PM",
+          "Actions": "Edited Issue by Student"
+        },
+        {
+          "Time": "4:30PM",
+          "Actions": "Document Submitted"
+        },
+        {
+          "Time": "7:30PM",
+          "Actions": "Created Issue"
+        }
+      ]
+    },
+    {
+      "Sunday, Junuary 2, 2022": [
+        {
+          "Time": "1:30PM",
+          "Actions": "Issue Resolved"
+        },
+        {
+          "Time": "4:30PM",
+          "Actions": "Re-Submitted by Student"
+        }
+      ]
+    }
+  ]
+}

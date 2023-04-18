@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Assignments Card test Assignments card should render correctly and match the snapshot 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-13"
+  data-testid="assignments"
+  style="overflow: auto; max-height: 45vh;"
+>
+  <div>
+    <div
+      class="MuiBox-root MuiBox-root-14 makeStyles-container-1"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-15 bottomDivider"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+          >
+            <div>
+              <span
+                class="MuiTypography-root makeStyles-Name-3 MuiTypography-body1"
+              >
+                test
+              </span>
+              <span
+                class="MuiTypography-root MuiTypography-caption"
+              >
+                English
+              </span>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-date-4 makeStyles-content-5 MuiTypography-body1"
+            >
+              Submission_Starts_On
+               : 
+              7-10-2021
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-date-4 MuiTypography-body1"
+            >
+              Due_On
+               : 
+              7-10-2021
+            </p>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-align-items-xs-flex-end"
+          />
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-16 bottomDivider"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+          >
+            <div>
+              <span
+                class="MuiTypography-root makeStyles-Name-3 MuiTypography-body1"
+              >
+                test2
+              </span>
+              <span
+                class="MuiTypography-root MuiTypography-caption"
+              >
+                English
+              </span>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-date-4 makeStyles-content-5 MuiTypography-body1"
+            >
+              Submission_Starts_On
+               : 
+              7-10-2021
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-date-4 MuiTypography-body1"
+            >
+              Due_On
+               : 
+              7-10-2021
+            </p>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-align-items-xs-flex-end"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      style="padding-top: 16px;"
+    />
+  </div>
+</div>
+`;

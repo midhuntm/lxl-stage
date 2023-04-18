@@ -1,0 +1,48 @@
+{
+  "Current Components": [
+    {
+      "subjectName":"Subject 1",
+      "date":"10/12/2022",
+      "reason":"Going to hospital"
+    },
+    {
+      "subjectName":"Subject 2",
+      "date":"10/12/2022",
+      "reason":"Going to hospital"
+    }
+  ],
+  "Grade Points": [
+    {
+      "Grade Name": "A+",
+      "Range": "86% - 100%",
+      "Grade Point": 10
+    },
+    {
+      "Grade Name": "A",
+      "Range": "71% - 85%",
+      "Grade Point": 9
+    },
+    {
+      "Grade Name": "B+",
+      "Range": "56% - 70%",
+      "Grade Point": 8
+    },
+    {
+      "Grade Name": "B",
+      "Range": "41% - 55%",
+      "Grade Point": 7
+    },
+    {
+      "Grade Name": "C",
+      "Range": "25% - 41%",
+      "Grade Point": 6
+    }
+  ],
+  "Subjects": [
+    { "label": "Financial Accounting", "SubjectCode": "FIN 101", "Credits": 3 },
+    { "label": "Human Resource Management", "SubjectCode": "HRM 102", "Credits": 3 },
+    { "label": "Economics", "SubjectCode": "ECO 103", "Credits": 3 },
+    { "label": "Operations Management", "SubjectCode": "OPM 104", "Credits": 3 },
+    { "label": "Business Communication Management", "SubjectCode": "BCM 105", "Credits": 3 }
+  ]
+}

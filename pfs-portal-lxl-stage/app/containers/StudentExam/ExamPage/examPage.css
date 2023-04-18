@@ -1,0 +1,91 @@
+.circle {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  border: 2px solid blue;
+}
+.exam-detail-block-faq {
+  padding-right: 22px;
+}
+.exam-detail-block {
+  padding-left: 22px;
+}
+.exam-detail-block-inner {
+  background: #D7DEE9;
+  padding: 25px;
+  position: relative;
+  min-height: 364px;
+}
+.exam-detail-block-inner h5 {
+  font-size: 13px;
+  color: #000;
+  font-weight: 600;
+  margin-bottom: 10px;
+  }
+.exam-detail-block-inner h6 {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 13px;
+  margin-bottom: 17px;
+}
+.exam-detail-block-inner p {
+  font-size: 12px;
+  line-height: 170%;
+  color: #000;
+  margin-bottom: 24px;
+}
+
+.exam-detail-block-faq ul {
+  padding-right: 20px;
+  max-height: 364px;
+  overflow-y: auto;
+  padding-top: 0;
+}
+
+.accordion-part {
+  background-color: rgba(215, 222, 233, 1);
+  color: rgba(9, 38, 130, 1);
+}
+
+.accordion-part svg{
+  fill: rgba(9, 38, 130, 1);
+}
+.accordion-main {
+  margin-bottom: 15px;
+  box-shadow: none
+}
+.accordion-main:before {
+  background-color: transparent;
+}
+
+.faq-title {
+  font-weight: 600;
+  font-size: 18px;
+  color: #000;
+  padding: 18px 0;
+}
+
+.faq-section {
+  margin-bottom: 30px;
+}
+
+.cardFlex {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  justify-content: space-between;
+  margin-top: 47px;
+}
+
+.cardContent {
+  width: 232px;
+}
+.cardItem {
+  padding: 15px;
+  justify-content: center;
+  text-align: center;
+}
+
+.heads {
+  text-align: center;
+  font-size: 34px;
+ font-weight: bold,
+}

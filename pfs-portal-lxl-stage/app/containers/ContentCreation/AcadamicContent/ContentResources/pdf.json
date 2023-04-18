@@ -1,0 +1,23 @@
+[
+    {
+        "document": "EnvironmentalStudies.pdf",
+        "size": "250 Kb",
+        "type": "pdf",
+        "resourceId": 1958,
+        "status": "Published"
+    },
+    {
+        "document": "Sachin and Chemical Cha..pdf",
+        "size": "12 Mb",
+        "type": "pdf",
+        "resourceId": 1959,
+        "status": "Published"
+    },
+    {
+        "document": "Weather, Climate and Ada..pdf ",
+        "size": "1.2 Mb",
+        "resourceId": 1951,
+        "type": "pdf",
+        "status": "Unublished"
+    }
+]

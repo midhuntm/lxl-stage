@@ -1,0 +1,15 @@
+.popUpDetail-Item {
+  margin-top: 10px;
+}
+.popUpDetail-Button {
+  font-size: 0.725rem !important;
+}
+
+.tui-full-calendar-timegrid-container {
+  overflow-y: hidden;
+}
+
+.tui-full-calendar-week-container,
+.tui-full-calendar-vlayout-container > div {
+  height: auto !important;
+}

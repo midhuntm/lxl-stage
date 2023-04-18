@@ -1,0 +1,8 @@
+.mainDiv {
+  display: flex;
+  padding: 10px;
+}
+.childDiv {
+  margin-left: 39px;
+  font-size: 13px;
+}

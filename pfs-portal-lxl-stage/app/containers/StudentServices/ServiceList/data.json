@@ -1,0 +1,12 @@
+{
+  "DashboardTabs": [
+  {
+      "index": 1,
+      "title": "Raise A Case"
+    },
+    {
+      "index": 2,
+      "title": "Make A Request"
+    }
+  ]
+}

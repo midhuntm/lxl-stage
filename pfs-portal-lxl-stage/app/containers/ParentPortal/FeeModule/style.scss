@@ -1,0 +1,39 @@
+.KenDiv{
+    thead,th{
+        font-size: 13px;
+        background-color: #F1F5FA;
+        font-weight: bold;
+    }
+}
+.collapsible table{
+    thead,th{
+        text-align:'right';
+    }
+}
+.KenDivFeeSchedule{
+    thead,th{
+        font-size: 13px;
+        background-color: #F1F5FA;
+        font-weight: bold;
+        // text-align: initial;
+    }
+    
+    
+}
+.KenTransaction{
+    thead,th{
+        font-size: 13px;
+        background-color: #F1F5FA;
+        font-weight: bold;
+    }
+    tbody
+    tr:first-child{
+       background: red;
+       display: none;
+}
+.mystudent-table{
+    thead,th:nth-child(1){
+        text-align: left;
+    }
+}
+}

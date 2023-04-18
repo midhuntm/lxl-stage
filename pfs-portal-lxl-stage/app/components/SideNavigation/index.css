@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.userName {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 18px;
+  color: #3f4a59;
+}
+
+.breadCrumbText {
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 12px !important;
+  line-height: 18px !important;
+  color: #00218d !important;
+}
+
+.editableTableRowData td {
+  padding: 0px 10px;
+}
+/* .editableTableRowData {
+  padding: 0px 10px;
+} */
+
+.tableHeaderTitle {
+  font-weight: bold;
+  padding: 7px;
+}
+
+.centerStatusTitle {
+  text-align: center;
+  padding-right: 39px;
+}
+
+.tablebody td {
+  padding: 0px 2px !important;
+  text-align: center;
+}
+
+.tablebody1 tr td {
+  padding: 5px 2px !important;
+  text-align: center;
+  font-size: 10px;
+}
+
+.testForCol {
+  padding: 0px 0px !important;
+}
+
+.tableHeader tr th {
+  text-align: center;
+}
+
+.side-nav-main-text {
+  font-size: 16px;
+  color: #fff;
+}
+
+.side-nav-main-icon {
+  font-size: 20px;
+  color: #fff;
+  padding-right: 10px;
+}
+
+.side-nav-main-text span {
+  font-size: 13px;
+  color: #fff;
+}
+
+.sub-menu {
+  padding-left: 42px;
+}
+
+.sub-menu-not {
+  padding-left: 75px;
+}
+
+.sub-menu-text {
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+}
+
+.sub-menu-text span {
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+}
+.sub-menu-text :hover {
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+  background-color: #000;
+}
+.submenu-submenu-padding :hover {
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+  background-color: #000 !important;
+}
+.MuiListItem-button :active{
+  background-color: #000 !important;
+}
+.MuiListItem-button:hover {
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+  background-color: #000 !important;
+}
+.conditioal-Sub-menu {
+  text-decoration: none;
+  font-size: 12px;
+  color: #fff;
+  padding-right: 10px;
+}
+
+.submenu-not-parent {
+  padding-left: 42px;
+}
+
+.side-nav-main-icon-drawerClose {
+  font-size: 20px;
+  color: #fff;
+  padding-right: 30px;
+}
+
+/* .side-nav-scroll div {
+  min-height: 1000px;
+  overflow-y: scroll;
+} */
+
+.col-12 {
+  margin: 15px;
+  padding-left: 26%;
+}
+
+.col-12 button {
+  margin-right: 28px;
+}

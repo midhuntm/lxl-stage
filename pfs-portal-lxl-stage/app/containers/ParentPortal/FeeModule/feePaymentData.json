@@ -1,0 +1,22 @@
+{
+  "FeePaymentTable": [
+    {
+      "Fee_Type": "Tuition Fee",
+      "Due_Amount": 57000,
+      "checked": false,
+      "Amount_To_Pay": 57000
+    },
+    {
+      "Fee_Type": "Library Fee",
+      "Due_Amount": 2000,
+      "checked": false,
+      "Amount_To_Pay": 2000
+    },
+    {
+      "Fee_Type": "Computer Fee",
+      "Due_Amount": 1500,
+      "checked": true,
+      "Amount_To_Pay": 1500
+    }
+  ]
+}

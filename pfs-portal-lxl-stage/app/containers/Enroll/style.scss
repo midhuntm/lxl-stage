@@ -1,0 +1,41 @@
+.enroll-kenGrid {
+  :nth-child(1) {
+    padding: 0px 0px 2px 4px;
+  }
+  // th:nth-child(7), td:nth-child(7) {
+  //     background: #F0F0F0;
+  // }
+  th:last-child,
+  td:last-child {
+    width: 100px;
+  }
+  th:nth-child(2),
+  td:nth-child(2) {
+    width: 115px;
+    // text-align: left;
+  }
+  th:nth-child(3),
+  td:nth-child(3) {
+    //  text-align: left;
+    width: 250px;
+  }
+  th:nth-child(4),
+  td:nth-child(4) {
+    width: 60px;
+  }
+}
+.kencard-div {
+  width: 100%;
+  margin-bottom: 15px;
+  .kencard-enroll {
+    height: 'auto !important';
+  }
+}
+.enrolled-data {
+  th:nth-child(2) {
+    width: 200px;
+  }
+  td:nth-child(2) {
+    width: 200px;
+  }
+}

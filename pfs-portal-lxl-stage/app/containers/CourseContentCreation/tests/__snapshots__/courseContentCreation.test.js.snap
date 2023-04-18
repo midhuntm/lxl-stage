@@ -1,0 +1,499 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AssessmentsTab /> AssessmentsTab should render and match the snapshot 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-23"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-24"
+      style="width: 100%; position: absolute; top: 40%;"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+        style="text-align: center;"
+      >
+        labels:No_Data
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AssignmentsCard /> AssignmentsCard should render and match the snapshot 1`] = `
+<div
+  class="MuiPaper-root MuiCard-root makeStyles-root-29 MuiPaper-elevation0 MuiPaper-rounded"
+>
+  <button
+    class="MuiButtonBase-root MuiCardActionArea-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-33 makeStyles-facultyTasks-32"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <span
+            class="MuiTypography-root makeStyles-title-30 MuiTypography-body1"
+            data-testid="assignment-title"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        />
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <p
+              class="MuiTypography-root makeStyles-date-31 MuiTypography-body1"
+              data-testid="assignment-start-sate"
+            >
+              <span>
+                Starts_On
+                :
+              </span>
+               
+               
+            </p>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <p
+              class="MuiTypography-root makeStyles-date-31 MuiTypography-body1"
+              data-testid="assignment-due-date"
+            >
+              <span>
+                Due_On
+                :
+              </span>
+               
+               
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <span
+      class="MuiCardActionArea-focusHighlight"
+    />
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;
+
+exports[`<AssignmentsTab /> AssignmentsTab should render and match the snapshot 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-25"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-26"
+      style="width: 100%; position: absolute; top: 40%;"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+        style="text-align: center;"
+      >
+        labels:No_Data
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<CourseContentCreation /> CourseContentCreation should render and match the snapshot 1`] = `
+<div
+  class="makeStyles-root-22"
+>
+  <div
+    class="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+    role="progressbar"
+    style="width: 40px; height: 40px;"
+  >
+    <svg
+      class="MuiCircularProgress-svg"
+      viewBox="22 22 44 44"
+    >
+      <circle
+        class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+        cx="44"
+        cy="44"
+        fill="none"
+        r="20.2"
+        stroke-width="3.6"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`<LessonsCard /> LessonsCard should render and match the snapshot 1`] = `
+<div
+  class="MuiPaper-root MuiCard-root makeStyles-root-34 MuiPaper-elevation0 MuiPaper-rounded"
+>
+  <button
+    class="MuiButtonBase-root MuiCardActionArea-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-38 makeStyles-facultyTasks-37"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <span
+            class="MuiTypography-root makeStyles-title-35 MuiTypography-body1"
+            data-testid="lesson-title"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        />
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <p
+              class="MuiTypography-root makeStyles-date-36 MuiTypography-body1"
+              data-testid="lesson-start-date"
+            >
+              <span>
+                Starts_On
+                :
+              </span>
+               
+               
+            </p>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <p
+              class="MuiTypography-root makeStyles-date-36 MuiTypography-body1"
+              data-testid="lesson-due-date"
+            >
+              <span>
+                Deadline
+                :
+              </span>
+               
+               
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <span
+      class="MuiCardActionArea-focusHighlight"
+    />
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;
+
+exports[`<LessonsTab /> LessonsTab should render and match the snapshot 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-27"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-28"
+      style="width: 100%; position: absolute; top: 40%;"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+        style="text-align: center;"
+      >
+        labels:No_Data
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AssessmentsTab renders correctly with props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-39"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-root-40 MuiPaper-elevation0 MuiPaper-rounded"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-44 makeStyles-facultyTasks-43"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-item"
+              >
+                <span
+                  class="MuiTypography-root makeStyles-title-41 MuiTypography-body1"
+                  data-testid="assignment-title"
+                >
+                  Math
+                </span>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item"
+              />
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <p
+                    class="MuiTypography-root makeStyles-date-42 MuiTypography-body1"
+                    data-testid="assignment-start-sate"
+                  >
+                    <span>
+                      Starts_On
+                      :
+                    </span>
+                     
+                    12/05/2021
+                     
+                  </p>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <p
+                    class="MuiTypography-root makeStyles-date-42 MuiTypography-body1"
+                    data-testid="assignment-due-date"
+                  >
+                    <span>
+                      Due_On
+                      :
+                    </span>
+                     
+                    12/07/2021
+                     
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AssignmentsTab renders correctly with props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-45"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-root-46 MuiPaper-elevation0 MuiPaper-rounded"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-50 makeStyles-facultyTasks-49"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-item"
+              >
+                <span
+                  class="MuiTypography-root makeStyles-title-47 MuiTypography-body1"
+                  data-testid="assignment-title"
+                >
+                  Math
+                </span>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item"
+              />
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <p
+                    class="MuiTypography-root makeStyles-date-48 MuiTypography-body1"
+                    data-testid="assignment-start-sate"
+                  >
+                    <span>
+                      Starts_On
+                      :
+                    </span>
+                     
+                    12/05/2021
+                     
+                  </p>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <p
+                    class="MuiTypography-root makeStyles-date-48 MuiTypography-body1"
+                    data-testid="assignment-due-date"
+                  >
+                    <span>
+                      Due_On
+                      :
+                    </span>
+                     
+                    12/07/2021
+                     
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`LessonsTab renders correctly with props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-51"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-root-52 MuiPaper-elevation0 MuiPaper-rounded"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-56 makeStyles-facultyTasks-55"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-item"
+              >
+                <span
+                  class="MuiTypography-root makeStyles-title-53 MuiTypography-body1"
+                  data-testid="lesson-title"
+                >
+                  Math
+                </span>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item"
+              />
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <p
+                    class="MuiTypography-root makeStyles-date-54 MuiTypography-body1"
+                    data-testid="lesson-start-date"
+                  >
+                    <span>
+                      Starts_On
+                      :
+                    </span>
+                     
+                     
+                  </p>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <p
+                    class="MuiTypography-root makeStyles-date-54 MuiTypography-body1"
+                    data-testid="lesson-due-date"
+                  >
+                    <span>
+                      Deadline
+                      :
+                    </span>
+                     
+                     
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

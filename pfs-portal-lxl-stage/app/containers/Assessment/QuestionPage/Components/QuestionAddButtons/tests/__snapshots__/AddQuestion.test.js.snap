@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`add-questions should render and match the snapshot without props 1`] = `
+<div
+  class="MuiGrid-root"
+  data-testid="add-questions"
+>
+  <div
+    class="MuiBox-root MuiBox-root-30 makeStyles-questionWrap-17"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-31 makeStyles-questionBankBtn-1"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-32 makeStyles-questionBankBtn-21"
+        data-testid="addQuestion - optionCard"
+      >
+        <p
+          class="MuiTypography-root makeStyles-icon-22 MuiTypography-body1"
+          style="background-color: rgb(255, 235, 220);"
+        >
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            style="color: rgb(255, 157, 84); font-size: 24px;"
+            viewBox="0 0 640 512"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"
+            />
+          </svg>
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-btnName-23 MuiTypography-body1"
+        >
+          From question bank
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-33"
+    />
+    <div
+      class="MuiBox-root MuiBox-root-34 makeStyles-questionBankBtn-1"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-35 makeStyles-questionBankBtn-21"
+        data-testid="addQuestion - optionCard"
+      >
+        <p
+          class="MuiTypography-root makeStyles-icon-22 MuiTypography-body1"
+          style="background-color: rgb(225, 216, 255);"
+        >
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            style="color: rgb(153, 122, 255); font-size: 24px;"
+            viewBox="0 0 384 512"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M224 136V0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V160H248c-13.2 0-24-10.8-24-24zm64 236c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12v8zm0-64c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12v8zm0-72v8c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12zm96-114.1v6.1H256V0h6.1c6.4 0 12.5 2.5 17 7l97.9 98c4.5 4.5 7 10.6 7 16.9z"
+            />
+          </svg>
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-btnName-23 MuiTypography-body1"
+        >
+           Upload questions
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

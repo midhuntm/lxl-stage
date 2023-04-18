@@ -1,0 +1,270 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Feedback should render and match the snapshot without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-8"
+>
+  <div
+    class="MuiPaper-root makeStyles-paper-1 MuiPaper-elevation0 MuiPaper-rounded"
+    data-testid="feedback-list"
+  />
+  <div
+    class="MuiBox-root MuiBox-root-9 makeStyles-container-5"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-10 makeStyles-btnBox-3 undefined"
+      data-testid="add"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeSmall"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+        />
+      </svg>
+      <span
+        class="MuiTypography-root makeStyles-btnLabel-4 MuiTypography-body1 MuiTypography-colorPrimary"
+      >
+        Add overall feedback
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Feedback should render correctly with props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-18"
+>
+  <div
+    class="MuiPaper-root makeStyles-paper-11 makeStyles-paperBorder-12 MuiPaper-elevation0 MuiPaper-rounded"
+    data-testid="feedback-list"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-19"
+      data-testid="feedback-list-item"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-20"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-21 makeStyles-btnBox-13 undefined"
+          data-testid="remove"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root makeStyles-btnLabel-14 MuiTypography-body1 MuiTypography-colorPrimary"
+          >
+            Remove feedback
+          </span>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-22"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-23"
+        data-testid="feedback-input"
+      >
+        <div
+          class="MuiFormControl-root makeStyles-formControl-25"
+        >
+          <div
+            class="makeStyles-labelWrap-34"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-space-between"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-item"
+              >
+                <p
+                  class="MuiTypography-root makeStyles-label-32 MuiTypography-body1"
+                >
+                  
+                  Feedback 1
+                </p>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item"
+              >
+                <p
+                  class="MuiTypography-root makeStyles-optional-33 MuiTypography-body1"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiInputBase-root WithStyles(ForwardRef(InputBase))-root-36 makeStyles-inputBorder-31 MuiInputBase-formControl MuiInputBase-multiline"
+            pattern="[A-Za-z]{3}"
+          >
+            <textarea
+              aria-invalid="false"
+              class="MuiInputBase-input WithStyles(ForwardRef(InputBase))-input-38 MuiInputBase-inputMultiline"
+              rows="1"
+              style="height: 0px; overflow: hidden;"
+            >
+              Good
+            </textarea>
+            <textarea
+              aria-hidden="true"
+              class="MuiInputBase-input WithStyles(ForwardRef(InputBase))-input-38 MuiInputBase-inputMultiline"
+              readonly=""
+              style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); width: 100%;"
+              tabindex="-1"
+            />
+          </div>
+          <p
+            class="MuiTypography-root makeStyles-typoSupporting-26 MuiTypography-body1 MuiTypography-alignLeft"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-39"
+      data-testid="feedback-list-item"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-40"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-41 makeStyles-btnBox-13 undefined"
+          data-testid="remove"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root makeStyles-btnLabel-14 MuiTypography-body1 MuiTypography-colorPrimary"
+          >
+            Remove feedback
+          </span>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-42"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-43"
+        data-testid="feedback-input"
+      >
+        <div
+          class="MuiFormControl-root makeStyles-formControl-25"
+        >
+          <div
+            class="makeStyles-labelWrap-34"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-space-between"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-item"
+              >
+                <p
+                  class="MuiTypography-root makeStyles-label-32 MuiTypography-body1"
+                >
+                  
+                  Feedback 2
+                </p>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-item"
+              >
+                <p
+                  class="MuiTypography-root makeStyles-optional-33 MuiTypography-body1"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiInputBase-root WithStyles(ForwardRef(InputBase))-root-36 makeStyles-inputBorder-31 MuiInputBase-formControl MuiInputBase-multiline"
+            pattern="[A-Za-z]{3}"
+          >
+            <textarea
+              aria-invalid="false"
+              class="MuiInputBase-input WithStyles(ForwardRef(InputBase))-input-38 MuiInputBase-inputMultiline"
+              rows="1"
+              style="height: 0px; overflow: hidden;"
+            >
+              Average
+            </textarea>
+            <textarea
+              aria-hidden="true"
+              class="MuiInputBase-input WithStyles(ForwardRef(InputBase))-input-38 MuiInputBase-inputMultiline"
+              readonly=""
+              style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); width: 100%;"
+              tabindex="-1"
+            />
+          </div>
+          <p
+            class="MuiTypography-root makeStyles-typoSupporting-26 MuiTypography-body1 MuiTypography-alignLeft"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-44 makeStyles-container-15"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-45 makeStyles-btnBox-13 undefined"
+      data-testid="add"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeSmall"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+        />
+      </svg>
+      <span
+        class="MuiTypography-root makeStyles-btnLabel-14 MuiTypography-body1 MuiTypography-colorPrimary"
+      >
+        Add more range for feedback
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-46 makeStyles-btnBox-13 makeStyles-resetBtn-16"
+      data-testid="reset"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeSmall"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14.59 8L12 10.59 9.41 8 8 9.41 10.59 12 8 14.59 9.41 16 12 13.41 14.59 16 16 14.59 13.41 12 16 9.41 14.59 8zM12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+        />
+      </svg>
+      <span
+        class="MuiTypography-root makeStyles-btnLabel-14 MuiTypography-body1 MuiTypography-colorPrimary"
+      >
+        Reset
+      </span>
+    </div>
+  </div>
+</div>
+`;

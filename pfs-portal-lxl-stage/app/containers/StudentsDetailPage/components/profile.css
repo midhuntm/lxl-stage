@@ -1,0 +1,15 @@
+.text-size {
+  font-size: 15px
+}
+.editButton {
+  display: flex !important;
+  justify-content: flex-end !important;
+} 
+.save {
+  min-width: 100px;
+  height: 40px;
+}
+
+.userName {
+  font-weight: bold;
+}

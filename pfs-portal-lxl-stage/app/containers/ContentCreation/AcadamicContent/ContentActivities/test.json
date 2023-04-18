@@ -1,0 +1,460 @@
+{
+    "section": [{
+            "title": "General",
+            "uservisible": 1,
+            "sectionnumber": 0,
+            "coursemodules": [{
+                    "modtype": "forum",
+                    "name": "Announcements",
+                    "lmslink": "http://localhost/kenlms/mod/forum/view.php?id=148"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assignment",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=292"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assingment",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=416"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assingment",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=486"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assingment",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=556"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assignment 24th July",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=595"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assingment26th july",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=631"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assingment 27th july",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=730"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assingment 28 July",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=736"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assingment 29 july",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=773"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assignment 30 July",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=778"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assigment 31st july",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=783"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assigment 2 Aug",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=820"
+                },
+                {
+                    "modtype": "quiz",
+                    "name": "quiz",
+                    "lmslink": "http://localhost/kenlms/mod/quiz/view.php?id=854"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assgment 5th Aug",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=872"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "10th Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=916"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "13th Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=960"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "26 Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=1066"
+                }
+            ]
+        },
+        {
+            "title": "B2",
+            "uservisible": 1,
+            "sectionnumber": 2,
+            "coursemodules": [{
+                    "modtype": "lesson",
+                    "name": "UNIT 1: Basics of IT in Schools ",
+                    "lmslink": "http://localhost/kenlms/mod/lesson/view.php?id=150"
+                },
+                {
+                    "modtype": "lesson",
+                    "name": "UNIT 2 : Basics of E-learning ",
+                    "lmslink": "http://localhost/kenlms/mod/lesson/view.php?id=151"
+                },
+                {
+                    "modtype": "lesson",
+                    "name": "UNIT 3 : Installing, Operating and Training of E-learning Equipment ",
+                    "lmslink": "http://localhost/kenlms/mod/lesson/view.php?id=152"
+                },
+                {
+                    "modtype": "url",
+                    "name": "Virtual Lab ",
+                    "lmslink": "http://localhost/kenlms/mod/url/view.php?id=153"
+                },
+                {
+                    "modtype": "lesson",
+                    "name": "UNIT 4 – Basics of an E-learning Curriculum ",
+                    "lmslink": "http://localhost/kenlms/mod/lesson/view.php?id=154"
+                },
+                {
+                    "modtype": "lesson",
+                    "name": "UNIT 5: Manage Computing and Display Systems",
+                    "lmslink": "http://localhost/kenlms/mod/lesson/view.php?id=155"
+                },
+                {
+                    "modtype": "lesson",
+                    "name": "UNIT 6: Coordinate with the Learning Centre",
+                    "lmslink": "http://localhost/kenlms/mod/lesson/view.php?id=156"
+                },
+                {
+                    "modtype": "lesson",
+                    "name": "UNIT 7: Coordinate with Others to Perform Work ",
+                    "lmslink": "http://localhost/kenlms/mod/lesson/view.php?id=157"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "05Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=166"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "06Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=169"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "07Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=172"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "08Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=205"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "09Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=208"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "12Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=241"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "13Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=244"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "14Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=252"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "15Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=255"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assignment 15 july",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=258"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "16Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=259"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assignment 16july2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=331"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "17 JULY 21 2021 ESSCI DST IT B3 PERIOD1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=335"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assignment 17july",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=339"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "19Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=374"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assignment 19th July 2021 ",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=379"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "20Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=380"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assignment 20 july21",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=449"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "22Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=453"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assignment 22th july 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=489"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "23Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=490"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "23th july Assignment",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=558"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "24Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=559"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "24th July Assignment",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=594"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "26Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=596"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "27Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=664"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "28Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=731"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "29Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=769"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "30Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=774"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "31Jul21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=779"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "02Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=784"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "03Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=821"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "3rd Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=855"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "04Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=858"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "4th Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=865"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "05Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=868"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "5th Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=873"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "06Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=874"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "Assignment 6th August,2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=878"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "07Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=880"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "7th August Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=883"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "09Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=886"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "9th Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=891"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "10Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=892"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "11Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=897"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "11th aug assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=903"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "12Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=904"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "13Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=909"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "13th Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=915"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "14Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=917"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "16Aug21_2021-ESSCI-DST-STC-IT-B2-pERIOD 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=954"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "18Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=956"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "19Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=961"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "20Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=968"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "20 th Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=976"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "21Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=977"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "21th Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=1013"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "23Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=1014"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "24Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=1048"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "25Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=1056"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "26Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=1059"
+                },
+                {
+                    "modtype": "assign",
+                    "name": "26th Aug Assignment 2021",
+                    "lmslink": "http://localhost/kenlms/mod/assign/view.php?id=1068"
+                },
+                {
+                    "modtype": "bigbluebuttonbn",
+                    "name": "27Aug21_2021-ESSCI-DST-STC-IT-B2_Period 1",
+                    "lmslink": "http://localhost/kenlms/mod/bigbluebuttonbn/view.php?id=1069"
+                }
+            ]
+        }
+    ]
+}

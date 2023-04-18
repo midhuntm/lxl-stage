@@ -1,0 +1,23 @@
+{
+    "FeeCartTable": [
+      {
+        "Fee_Type": "Tuition Fee",
+        "Due_Amount": 57000,
+        "checked": false,
+        "Collection_Frequency": "Yearly"
+      },
+      {
+        "Fee_Type": "Cafeteria Fee",
+        "Due_Amount": 20000,
+        "checked": false,
+        "Collection_Frequency": "Yearly"
+      },
+      {
+        "Fee_Type": "Club Fee",
+        "Due_Amount": 1500,
+        "checked": true,
+        "Collection_Frequency": "Quarterly"
+      }
+    ]
+  }
+  

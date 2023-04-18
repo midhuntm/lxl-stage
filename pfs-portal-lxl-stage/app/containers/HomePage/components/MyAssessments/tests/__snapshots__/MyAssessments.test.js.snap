@@ -1,0 +1,222 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Assessment should render and match the snapshot 1`] = `
+<div
+  class="makeStyles-container-2"
+  data-testid="my-assessments"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-space-between"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        class="MuiTypography-root makeStyles-title-1 MuiTypography-body1"
+        data-testid="my-assessments-label"
+      >
+        HEADINGS:MY_ASSESSMENTS
+         (
+        6
+        )
+      </p>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-18"
+    data-testid="assessments"
+    style="overflow: auto; max-height: 45vh;"
+  >
+    <div>
+      <div
+        class="MuiBox-root MuiBox-root-19 makeStyles-container-4"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-20 bottomDivider"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+            >
+              <div>
+                <span
+                  class="MuiTypography-root makeStyles-Name-6 MuiTypography-body1"
+                >
+                  Assessment 1
+                </span>
+                <span
+                  class="MuiTypography-root MuiTypography-caption"
+                >
+                  Subject 1
+                </span>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-date-7 MuiTypography-body1"
+              >
+                12/11/21
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-21 bottomDivider"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+            >
+              <div>
+                <span
+                  class="MuiTypography-root makeStyles-Name-6 MuiTypography-body1"
+                >
+                  Assessment 1
+                </span>
+                <span
+                  class="MuiTypography-root MuiTypography-caption"
+                >
+                  Subject 1
+                </span>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-date-7 MuiTypography-body1"
+              >
+                12/11/21
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-22 bottomDivider"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+            >
+              <div>
+                <span
+                  class="MuiTypography-root makeStyles-Name-6 MuiTypography-body1"
+                >
+                  Assessment 1
+                </span>
+                <span
+                  class="MuiTypography-root MuiTypography-caption"
+                >
+                  Subject 1
+                </span>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-date-7 MuiTypography-body1"
+              >
+                12/11/21
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-23 bottomDivider"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+            >
+              <div>
+                <span
+                  class="MuiTypography-root makeStyles-Name-6 MuiTypography-body1"
+                >
+                  Assessment 1
+                </span>
+                <span
+                  class="MuiTypography-root MuiTypography-caption"
+                >
+                  Subject 1
+                </span>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-date-7 MuiTypography-body1"
+              >
+                12/11/21
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-24 bottomDivider"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+            >
+              <div>
+                <span
+                  class="MuiTypography-root makeStyles-Name-6 MuiTypography-body1"
+                >
+                  Assessment 1
+                </span>
+                <span
+                  class="MuiTypography-root MuiTypography-caption"
+                >
+                  Subject 1
+                </span>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-date-7 MuiTypography-body1"
+              >
+                12/11/21
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-25 bottomDivider"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+            >
+              <div>
+                <span
+                  class="MuiTypography-root makeStyles-Name-6 MuiTypography-body1"
+                >
+                  Assessment 1
+                </span>
+                <span
+                  class="MuiTypography-root MuiTypography-caption"
+                >
+                  Subject 1
+                </span>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-date-7 MuiTypography-body1"
+              >
+                12/11/21
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        data-testid="show-more"
+        style="padding-top: 16px;"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body1 MuiTypography-colorPrimary MuiTypography-alignCenter"
+        >
+          Show_More
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

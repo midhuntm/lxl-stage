@@ -1,0 +1,57 @@
+{
+  "forumTypes":[
+    {"value":"single","label":"A single simple discussion"},
+    {"value":"eachuser","label":"Each person posts one discussion"},
+    {"value":"qanda","label":"Q and A forum"},
+    {"value":"blog","label":"Standard forum displayed in a blog-like format"},
+    {"value":"general","label":"Standard forum for general use"}
+  ],
+  "maxAttachments":[
+    {"value":"0", "label":"0"},
+    {"value":"1", "label":"1"},
+    {"value":"2", "label":"2"},
+    {"value":"3", "label":"3"},
+    {"value":"4", "label":"4"},
+    {"value":"5", "label":"5"},
+    {"value":"6", "label":"6"},
+    {"value":"7", "label":"7"},
+    {"value":"8", "label":"8"},
+    {"value":"9", "label":"9"},
+    {"value":"10", "label":"10"},
+    {"value":"20", "label":"20"},
+    {"value":"50", "label":"50"},
+    {"value":"100", "label":"100"}
+  ],
+  "subscriptionMode":[
+    {"value":"0","label":"Optional subscription"},
+    {"value":"1","label":"Forced subscription"},
+    {"value":"2","label":"Auto subscription"},
+    {"value":"3","label":"Subscription disabled"}
+   ],
+   "readTracking":[
+    {"value":"1","label":"Optional"},
+    {"value":"0","label":"Off"}
+   ],
+   "discussionLocking":[
+    {"value":0,"label":"Do not lock discussions"},
+    {"value":86400,"label":"1 Day"},
+    {"value":604800,"label":"1 Week"},
+    {"value":1209600,"label":"2 Weeks"},
+    {"value":2592000,"label":"1 Month"},
+    {"value":5184000,"label":"2 Months"},
+    {"value":7776000,"label":"3 Months"},
+    {"value":15552000,"label":"6 Months"},
+    {"value":31536000,"label":"1 Year"}
+  ],
+  "blockingTimePeriod":[
+    {"value":0,"label":"Don't block"},
+    {"value":86400,"label":"1 Day"},
+    {"value":172800,"label":"2 Days"},
+    {"value":259200,"label":"3 Days"},
+    {"value":345600,"label":"4 Days"},
+    {"value":432000,"label":"5 Days"},
+    {"value":518400,"label":"6 Days"},
+    {"value":604800,"label":"1 Week"} 
+  ]
+
+}

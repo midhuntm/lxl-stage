@@ -1,0 +1,357 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Searchable check list should render and match the snapshot for checkbox 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-container"
+  data-testid="checklist-container"
+>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    data-testid="search-bar"
+  >
+    <div
+      class="makeStyles-searchBarContainer-3"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        style="color: rgb(122, 134, 154);"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+        />
+      </svg>
+      <div
+        class="MuiInputBase-root"
+      >
+        <input
+          class="MuiInputBase-input"
+          data-testid="search-input"
+          placeholder="Search"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-checkListSection-4 undefined MuiGrid-item MuiGrid-grid-xs-12"
+  >
+    <span
+      data-testid="checkbox-group"
+    >
+      <div
+        data-testid="checkbox-group"
+      >
+        <div
+          class="MuiFormGroup-root"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+            style="flex-wrap: nowrap;"
+          >
+            <label
+              class="MuiFormControlLabel-root"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiCheckbox-root Component-root-7 makeStyles-transparentBg-6"
+                component-root="[object Object]"
+                style="margin-right: -20px;"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-12"
+                    data-indeterminate="false"
+                    name="item1"
+                    type="checkbox"
+                    value=""
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                    />
+                  </svg>
+                </span>
+              </span>
+              <span
+                class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+              />
+            </label>
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+              style="font-size: 12px; color: rgb(80, 95, 121);"
+            >
+               
+              Item 1
+               
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiFormGroup-root"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+            style="flex-wrap: nowrap;"
+          >
+            <label
+              class="MuiFormControlLabel-root"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiCheckbox-root Component-root-7 makeStyles-transparentBg-6"
+                component-root="[object Object]"
+                style="margin-right: -20px;"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-12"
+                    data-indeterminate="false"
+                    name="item2"
+                    type="checkbox"
+                    value=""
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                    />
+                  </svg>
+                </span>
+              </span>
+              <span
+                class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+              />
+            </label>
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+              style="font-size: 12px; color: rgb(80, 95, 121);"
+            >
+               
+              Item 2
+               
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiFormGroup-root"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+            style="flex-wrap: nowrap;"
+          >
+            <label
+              class="MuiFormControlLabel-root"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiCheckbox-root Component-root-7 makeStyles-transparentBg-6"
+                component-root="[object Object]"
+                style="margin-right: -20px;"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-12"
+                    data-indeterminate="false"
+                    name="item3"
+                    type="checkbox"
+                    value=""
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                    />
+                  </svg>
+                </span>
+              </span>
+              <span
+                class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+              />
+            </label>
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+              style="font-size: 12px; color: rgb(80, 95, 121);"
+            >
+               
+              Item 3
+               
+            </p>
+          </div>
+        </div>
+      </div>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Searchable check list should render and match the snapshot for radio button 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-container"
+  data-testid="checklist-container"
+>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    data-testid="search-bar"
+  >
+    <div
+      class="makeStyles-searchBarContainer-15"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        style="color: rgb(122, 134, 154);"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+        />
+      </svg>
+      <div
+        class="MuiInputBase-root"
+      >
+        <input
+          class="MuiInputBase-input"
+          data-testid="search-input"
+          placeholder="Search"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-checkListSection-16 undefined MuiGrid-item MuiGrid-grid-xs-12"
+  >
+    <span
+      data-testid="radio-group"
+    >
+      <div
+        class="MuiFormGroup-root makeStyles-formGroup-21 makeStyles-formGroup-21"
+      >
+        <fieldset
+          class="MuiFormControl-root"
+        >
+          
+          <div
+            aria-label=""
+            class="MuiFormGroup-root"
+            role="radiogroup"
+          >
+            <div>
+              <label
+                class="MuiFormControlLabel-root makeStyles-formControlLabelRoot-14"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-22 MuiRadio-root makeStyles-root-17"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <input
+                      class="PrivateSwitchBase-input-25"
+                      name=""
+                      type="radio"
+                      value="item1"
+                    />
+                    <span
+                      class="makeStyles-icon-19"
+                    />
+                  </span>
+                </span>
+                <span
+                  class="MuiTypography-root MuiFormControlLabel-label makeStyles-labelItem-18 MuiTypography-body1"
+                >
+                  Item 1
+                </span>
+              </label>
+            </div>
+            <div>
+              <label
+                class="MuiFormControlLabel-root makeStyles-formControlLabelRoot-14"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-22 MuiRadio-root makeStyles-root-17"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <input
+                      class="PrivateSwitchBase-input-25"
+                      name=""
+                      type="radio"
+                      value="item2"
+                    />
+                    <span
+                      class="makeStyles-icon-19"
+                    />
+                  </span>
+                </span>
+                <span
+                  class="MuiTypography-root MuiFormControlLabel-label makeStyles-labelItem-18 MuiTypography-body1"
+                >
+                  Item 2
+                </span>
+              </label>
+            </div>
+            <div>
+              <label
+                class="MuiFormControlLabel-root makeStyles-formControlLabelRoot-14"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-22 MuiRadio-root makeStyles-root-17"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <input
+                      class="PrivateSwitchBase-input-25"
+                      name=""
+                      type="radio"
+                      value="item3"
+                    />
+                    <span
+                      class="makeStyles-icon-19"
+                    />
+                  </span>
+                </span>
+                <span
+                  class="MuiTypography-root MuiFormControlLabel-label makeStyles-labelItem-18 MuiTypography-body1"
+                >
+                  Item 3
+                </span>
+              </label>
+            </div>
+          </div>
+        </fieldset>
+      </div>
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,39 @@
+.grade-div {
+  span.Grade {
+    padding: 10px;
+    border-radius: 50%;
+  }
+  span.Grade.Name-A\+ {
+    background: #1bbe75;
+    color: #fff;
+  }
+  span.Grade.Name-A {
+    background: #78d8ad;
+    color: #fff;
+    span {
+      padding: 0px 4px;
+    }
+  }
+  span.Grade.Name-B\+ {
+    background: #4da0ff;
+    color: #fff;
+  }
+  span.Grade.Name-B {
+    background: #4da0ff;
+    color: #fff;
+    span {
+        padding: 0px 4px;
+      }
+  }
+  span.Grade.Name-C {
+    background: #f8aaa4;
+    color: #fff;
+    span {
+        padding: 0px 4px;
+      }
+  }
+}
+.collapse-ACTIONS{
+  text-align: right !important;
+  padding-right: 40px !important;
+}

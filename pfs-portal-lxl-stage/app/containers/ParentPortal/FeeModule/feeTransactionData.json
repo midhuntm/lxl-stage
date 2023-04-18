@@ -1,0 +1,31 @@
+{
+  "FeeTransactionTableData":[ {
+    "subRows":[
+ {
+      "Sl_No": 1,
+      "Transaction_Date": "22/08/2022",
+      "Payment_mode": "Online",
+      "Fee_Type": "Tuition Fee",
+      "Paid_Amount": 20000,
+      "Reciept": "Yes"
+    },
+    {
+      "Sl_No": 2,
+      "Transaction_Date": "22/10/2022",
+      "Payment_mode": "Cash",
+      "Fee_Type": "Course Material Fee",
+      "Paid_Amount": 2500,
+      "Reciept": "Yes"
+    },
+    {
+      "Sl_No": 3,
+      "Transaction_Date": "22/08/2022",
+      "Payment_mode": "Online",
+      "Fee_Type": "Visa Fee",
+      "Paid_Amount": 750,
+      "Reciept": "Yes"
+    }
+    ]   
+  
+}]
+}

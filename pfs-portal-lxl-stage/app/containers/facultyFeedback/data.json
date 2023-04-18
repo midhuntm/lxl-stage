@@ -1,0 +1,37 @@
+{
+    "TableData": [
+      {
+        "Program": "A",
+        "Subject": "Emotional Learning",
+        "SubjectCode": "BUS101",
+        "Feedback": "Submitted"
+      },
+      {
+        "Program": "B",
+        "Subject": "Life Skill",
+        "SubjectCode": "BUS105",
+        "Feedback": "Submitted"
+      }, {
+        "Program": "C",
+        "Subject": "Social Skill",
+        "SubjectCode": "MGT301",
+        "Feedback": "Pending"
+      }
+    ],
+    "TableData1": [
+      {
+        "Resources": "Facilitator Manual",
+        "Subject": "Business Analytics",
+        "SubjectCode": "BUS101",
+        "Feedback": "Submitted"
+      },
+      {
+        "Resources": "Score Key",
+        "Subject": "Introduction to Marketing",
+        "SubjectCode": "BUS105",
+        "Feedback": "Submitted"
+      }
+    ]
+  }
+
+  

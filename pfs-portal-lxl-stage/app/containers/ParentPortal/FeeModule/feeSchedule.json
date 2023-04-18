@@ -1,0 +1,26 @@
+{
+    "FeeScheduleTableData": [
+      {
+        "Fee_Type": "Tuition Fee",
+        "Due_Amount": 20000,
+        "Start_Date": "20-07-2022",
+        "Due_Date": "20-10-2022",
+        "Late_Fee_Start_Date": "30-10-2022"
+      },
+      {
+        "Fee_Type": "Course Material Fee",
+        "Due_Amount": 2500,
+        "Start_Date": "20-07-2022",
+        "Due_Date": "20-10-2022",
+        "Late_Fee_Start_Date": "30-10-2022"
+      },
+      {
+        "Fee_Type": "Visa Fee",
+        "Due_Amount": 750,
+        "Start_Date": "20-07-2022",
+        "Due_Date": "20-10-2022",
+        "Late_Fee_Start_Date": "30-10-2022"
+      }
+    ]
+  }
+  

@@ -1,0 +1,55 @@
+/* .fc-timegrid-event .fc-event-main {
+  padding: 2px 10px 0;
+  color: #00218D;
+  background-color: #dee1ec;
+} 
+.fc-event {
+  font-size: 10px;
+  padding: 0px;
+  color: #00218D;
+  background-color: #dee1ec;
+  border: 1px solid #dee1ec;
+  border-left: 3px solid #00218D;
+  box-shadow: none;
+  font-weight: 700;
+  position: relative;
+  top: '50%'
+} */
+/* .fc-view-harness {
+  max-height: 45vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+} */
+
+/* .fc-header-toolbar {
+  margin: 0;
+  padding: 8px 12px;
+  max-height: 20vh;
+  border-bottom: 0.06px solid #505F79;
+} */
+
+/* 
+.fc .fc-button-primary {
+    color: #fff;
+    color: #201f1f;
+    background-color: #2C3E50;
+    background-color: #f9f9f9;
+    border-color: #2C3E50;
+    border-color: #ffffff;
+}
+
+.fc-v-event .fc-event-title {
+  top: 25%;
+  bottom: 0;
+  max-height: 100%;
+  overflow: hidden;
+} */
+
+.fc-sticky {
+    position: relative;
+}
+/* 
+.fc-timegrid-slot .fc-timegrid-slot-lane .fc-timegrid-slot-minor {
+  background-color: aqua;
+} */
+/* fc-timegrid-slot-lane fc-timegrid-slot-minor */

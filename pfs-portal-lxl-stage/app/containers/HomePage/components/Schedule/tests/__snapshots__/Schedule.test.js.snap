@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Schedule should render and match the snapshot 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-20"
+  data-testid="schedule-view"
+>
+  <div>
+    <div
+      class="makeStyles-root-17"
+    />
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-center"
+    >
+      <div
+        class="MuiGrid-root makeStyles-headerItem-3 MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-sm-5 MuiGrid-grid-md-5"
+      >
+        <p
+          class="MuiTypography-root makeStyles-title-15 MuiTypography-body1"
+        >
+          HEADINGS:SCHEDULE
+        </p>
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-scheduleLabel-11 MuiGrid-item MuiGrid-grid-sm-7 MuiGrid-grid-md-7"
+      >
+        <button
+          aria-label="previous"
+          class="MuiButtonBase-root MuiIconButton-root makeStyles-iconButtons-2"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15.61 7.41L14.2 6l-6 6 6 6 1.41-1.41L11.03 12l4.58-4.59z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          aria-label="today"
+          class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-scheduleDay-10"
+          data-testid="current-date-button"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+             
+            <div>
+              TODAY
+            </div>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          aria-label="next"
+          class="MuiButtonBase-root MuiIconButton-root makeStyles-iconButtons-2"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10.02 6L8.61 7.41 13.19 12l-4.58 4.59L10.02 18l6-6-6-6z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-21 makeStyles-scheduler-1"
+  >
+    <div
+      style="height: 800px;"
+    >
+      <div
+        class="tui-full-calendar-layout"
+        style="background-color: white;"
+      >
+        <div
+          class="tui-view-15 tui-full-calendar-week-container"
+        >
+          <div
+            class="tui-full-calendar-dayname-layout"
+          >
+            <div
+              class="tui-full-calendar-dayname-container tui-view-16"
+              style="border-top: 0px solid #e5e5e5; border-bottom: 0px solid #e5e5e5; height: 0px; background-color: inherit; text-align: left;"
+            />
+          </div>
+          <div
+            class="tui-full-calendar-vlayout-area tui-view-17 tui-full-calendar-vlayout-container"
+            style="height: 0px;"
+          >
+            <div
+              class="tui-view-19"
+              data-auto-height="true"
+              data-panel-index="0"
+              style="position: relative;"
+            >
+              <div
+                class="tui-full-calendar-timegrid-container tui-view-20"
+              />
+              <div
+                class="tui-full-calendar-timegrid-sticky-container"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-22 makeStyles-popup-8"
+      id="popup"
+    />
+  </div>
+</div>
+`;

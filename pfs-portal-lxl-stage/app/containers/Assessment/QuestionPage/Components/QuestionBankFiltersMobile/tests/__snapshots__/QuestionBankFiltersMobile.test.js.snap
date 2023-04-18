@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Question bank content should render and match the snapshot 1`] = `
+<div
+  class="makeStyles-container-1"
+  data-testid="questionbank-filters-mobile"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+    style="padding: 16px 0px 0px 0px;"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      style="box-shadow: 0px 0px 18px #101E730F; clip-path: inset(0px -15px 0px 0px); height: 100%; overflow-y: auto;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-filtersLabel-2 MuiTypography-body1"
+      >
+        labels:Filters
+      </p>
+      <div
+        style="display: flex; align-items: center; padding: 10px 16px;"
+      >
+        <p
+          class="MuiTypography-root makeStyles-labelText-6 MuiTypography-body1"
+        >
+          Category
+        </p>
+      </div>
+      <hr
+        class="MuiDivider-root"
+        style="color: rgb(227, 227, 227); margin: 0px 16px;"
+      />
+      <div
+        style="display: flex; align-items: center; padding: 10px 16px;"
+      >
+        <p
+          class="MuiTypography-root makeStyles-labelText-6 MuiTypography-body1"
+        >
+          Class
+        </p>
+      </div>
+      <hr
+        class="MuiDivider-root"
+        style="color: rgb(227, 227, 227); margin: 0px 16px;"
+      />
+      <div
+        style="display: flex; align-items: center; padding: 10px 16px;"
+      >
+        <p
+          class="MuiTypography-root makeStyles-labelText-6 MuiTypography-body1"
+        >
+          Subject
+        </p>
+      </div>
+      <hr
+        class="MuiDivider-root"
+        style="color: rgb(227, 227, 227); margin: 0px 16px;"
+      />
+      <div
+        style="display: flex; align-items: center; padding: 10px 16px;"
+      >
+        <p
+          class="MuiTypography-root makeStyles-labelText-6 MuiTypography-body1"
+        >
+          Chapter
+        </p>
+      </div>
+      <hr
+        class="MuiDivider-root"
+        style="color: rgb(227, 227, 227); margin: 0px 16px;"
+      />
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+      style="height: 100%; overflow-y: auto; padding: 0px 16px 0px 8px;"
+    >
+      <div
+        class="makeStyles-clearAllContainer-4"
+      >
+        <p
+          class="MuiTypography-root makeStyles-clearAllButton-5 MuiTypography-body1"
+        >
+          labels:Clear_all
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-container-9 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root makeStyles-button-10 makeStyles-secondary-12 MuiGrid-item MuiGrid-grid-xs-6"
+      data-testid="footer-secondary-button"
+    >
+      Cancel
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-button-10 makeStyles-primary-11 MuiGrid-item MuiGrid-grid-xs-6"
+      data-testid="footer-primary-button"
+    >
+      Apply
+    </div>
+  </div>
+</div>
+`;

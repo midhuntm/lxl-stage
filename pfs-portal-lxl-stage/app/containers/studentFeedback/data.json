@@ -1,0 +1,21 @@
+{
+    "TableData": [
+      {
+        "Faculty": "Mantraraj naik",
+        "Subject": "Business Analytics",
+        "SubjectCode": "BUS101",
+        "Feedback": "Submitted"
+      },
+      {
+        "Faculty": "Fajo Joy",
+        "Subject": "Introduction to Marketing",
+        "SubjectCode": "BUS105",
+        "Feedback": "Submitted"
+      }, {
+        "Faculty": "Nikita Sivakumar",
+        "Subject": "Quality Management",
+        "SubjectCode": "MGT301",
+        "Feedback": "Pending"
+      }
+    ]
+  }

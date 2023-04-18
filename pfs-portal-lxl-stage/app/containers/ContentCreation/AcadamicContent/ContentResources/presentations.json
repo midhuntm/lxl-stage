@@ -1,0 +1,29 @@
+[{
+        "filename": "sample_pptx.pptx",
+        "filesize": "1.1 Mb",
+        "type": "ppt",
+        "resourceId":1950,
+        "status": "Published"
+    },
+    {
+        "filename": "Chapter/filename.ppt",
+        "filesize": "100 Mb",
+        "resourceId":1950,
+        "type": "ppt",
+        "status": "Published"
+    },
+    {
+        "filename": "Chapter/filename1.ppt",
+        "filesize": "25 Mb",
+        "resourceId":1950,
+        "type": "ppt",
+        "status": "Unpublished"
+    },
+    {
+        "filename": "Chapter/filename2.ppt",
+        "filesize": "50 Mb",
+        "resourceId":1950,
+        "type": "ppt",
+        "status": "Published"
+    }
+]

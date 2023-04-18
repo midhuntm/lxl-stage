@@ -1,0 +1,10 @@
+{
+  "translations": {
+    "Home": "Zuhause",
+    "Classroom": "Klassenzimmer",
+    "My_Students": "Meine Schüler",
+    "Events": "Veranstaltungen",
+    "Content": "Inhalt $t(Creation)",
+    "Creation": "Schaffung"
+  }
+}

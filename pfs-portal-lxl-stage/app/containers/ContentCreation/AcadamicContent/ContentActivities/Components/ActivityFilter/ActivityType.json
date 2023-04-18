@@ -1,0 +1,21 @@
+[{
+        "heading": "Assessment",
+        "check": true
+    },
+    {
+        "heading": "InteractiveLessons",
+        "check": true
+    },
+    {
+        "heading": "Assignments",
+        "check": false
+    },
+    {
+        "heading": "VirtualClassroom",
+        "check": false
+    },
+    {
+        "heading": "Chat",
+        "check": false
+    }
+]

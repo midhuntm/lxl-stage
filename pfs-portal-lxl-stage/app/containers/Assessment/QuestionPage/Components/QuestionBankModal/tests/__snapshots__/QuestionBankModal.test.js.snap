@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Question bank modal Modal is closed when value of open is false 1`] = `
+<div
+  data-testid="questionbank-modal"
+>
+  <div />
+</div>
+`;
+
+exports[`Question bank modal should render and match the snapshot 1`] = `
+<div
+  data-testid="questionbank-modal"
+>
+  <div />
+</div>
+`;

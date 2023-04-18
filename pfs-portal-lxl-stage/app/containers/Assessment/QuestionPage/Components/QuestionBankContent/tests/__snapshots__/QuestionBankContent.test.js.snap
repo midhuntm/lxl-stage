@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Question bank content should render and match the snapshot 1`] = `
+<div
+  data-testid="questionbank-content"
+>
+  <div>
+    <p
+      class="MuiTypography-root makeStyles-questionbankTypography-6 MuiTypography-body1"
+    >
+      labels:Question_bank
+    </p>
+    <button
+      aria-label="filter"
+      class="MuiButtonBase-root MuiFab-root makeStyles-filterButton-7 MuiFab-primary"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiFab-label"
+      >
+        <img
+          src="IMAGE_MOCK"
+        />
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+    <div
+      class="MuiGrid-root makeStyles-container-8 MuiGrid-container"
+    >
+      <div
+        class="MuiGrid-root makeStyles-button-9 makeStyles-secondary-11 MuiGrid-item MuiGrid-grid-xs-6"
+      >
+        Cancel
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-button-9 makeStyles-primary-10 MuiGrid-item MuiGrid-grid-xs-6"
+      >
+        Add Selected
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,119 @@
+{
+  "Enroll": {
+    "Mandatory Courses": [
+      {
+        "SubjectCode": "BBAECO103",
+        "Course": "Principles of Management",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Micro Economics",
+        "SeatsLeft": "1",
+        "checked":true
+      },
+      {
+        "SubjectCode": "SPJ-BBACOM203",
+        "Course": "Finance",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Hotel Management",
+        "SeatsLeft": "3",
+        "checked":false
+      },
+      {
+        "SubjectCode": "SPJ-BBALIB103",
+        "Course": "Marketing",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Management",
+        "SeatsLeft": "12",
+        "checked":false
+      }
+    ],
+    "Elective Courses": [
+      {
+        "SubjectCode": "BBAECO104",
+        "Course": "Principles of Management",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Economics",
+        "SeatsLeft": "1",
+        "checked":true
+      },
+      {
+        "SubjectCode": "SPJ-BBACOM303",
+        "Course": "Hotel Management",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Finance",
+        "SeatsLeft": "1",
+        "checked":false
+      },
+      {
+        "SubjectCode": "SPJ-BBALIB203",
+        "Course": "Business Communication",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Marketing",
+        "SeatsLeft": "9",
+        "checked":true
+      }
+    ]
+  },
+  "Enrolled": {
+    "Selected Mandatory Courses": [
+      {
+        "SubjectCode": "BBAECO103",
+        "Course": "Principles of Management",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Micro Economics",
+        "No": "1",
+        "checked":true
+      },
+      {
+        "SubjectCode": "SPJ-BBACOM203",
+        "Course": "Macroeconomics",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Micro Economics",
+        "No": "2",
+        "checked":false
+      },
+      {
+        "SubjectCode": "SPJ-BBALIB103",
+        "Course": "Business Communication",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Micro Economics",
+        "No": "3",
+        "checked":true
+      }
+    ],
+    "Selected Elective Courses": [
+      {
+        "SubjectCode": "BBAECO104",
+        "Course": "Principles of Management",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Micro Economics",
+        "No": "1"
+      },
+      {
+        "SubjectCode": "SPJ-BBACOM303",
+        "Course": "Macroeconomics",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Micro Economics",
+        "No": "2"
+      },
+      {
+        "SubjectCode": "SPJ-BBALIB203",
+        "Course": "Business Communication",
+        "Credits": "3.0",
+        "Discipline": "Core",
+        "PreRequisite": "Micro Economics",
+        "No": "3"
+      }
+    ]
+  }
+}

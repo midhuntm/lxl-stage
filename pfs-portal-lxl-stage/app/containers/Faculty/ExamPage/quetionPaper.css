@@ -1,0 +1,131 @@
+.user-details-main {
+  display: flex;
+  justify-content: space-between;
+}
+.incoming_msg, .outgoing_msg {
+  display: flex;
+  align-items: center;
+  width:55%;
+  margin-bottom: 50px;
+}
+.outgoing_msg {
+  float: right;
+  justify-content: space-between;
+}
+.incoming_msg {
+  justify-content: space-between;
+}
+.incoming_msg_img img {
+  width: 32px;
+}
+.sent_msg {
+  /* background-color: rgb(242, 201, 76, 0.3); */
+  width: calc(100% - 40px);
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.received_msg {
+  background-color: rgba(63, 196, 41, 0.3);
+  width: calc(100% - 40px);
+}
+.received_msg, .sent_msg {
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.time_date {
+  text-align: right;
+  display: block;
+  margin-bottom: 3px;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 14px;
+}
+.reply-part {
+  margin-top: 3px;
+  display: block;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 14px;
+}
+.user-details-left h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #092682;
+}
+.user-details-left h5 {
+  color: #092682;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: normal;
+}
+.user-details-left h5 span {
+    color: #505F79;
+}
+.user-details-main {
+  margin: 40px 0;
+}
+.outgoing_msg .incoming_msg_img {
+  margin-left: 20px;
+}
+.chat-text {
+  margin-bottom: 10px;
+  color: #000;
+  font-size: 14px;
+}
+.send_msg_img {
+  background: #00218D;
+  border-radius: 50px;
+  height: 100%;
+  height: 45px;
+  width: 45px;
+  transform: rotate(-45deg);
+}
+.send_msg_img button {
+  color: #fff;
+  height: 45px;
+  width: 45px;
+}
+.send_msg_img .MuiOutlinedInput-input {
+  padding: 10px 20px;
+}
+
+.incoming_msg .incoming_msg_img{
+  margin-right: 20px;
+}
+.chat-input-box button {
+  transform: rotate(-45deg);
+}
+.chat-input-box {
+  width: 100%;
+  margin: 0 20px;
+}
+.user-details-left button{
+  background: rgb(7, 135, 4);
+  color: #ffffff;
+}
+.user-details-left button:hover{
+  background: rgba(7, 135, 4, 0.8);
+  color: #ffffff;
+}
+.chat-input {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.chat-input .MuiOutlinedInput-notchedOutline {
+  border: 1px solid #C4C4C4;
+}
+.chat-input .MuiOutlinedInput-adornedEnd {
+  height: 40px;
+}
+.user-avtar {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(0, 33, 141);
+  color: #fff;
+  border-radius: 50%;
+}

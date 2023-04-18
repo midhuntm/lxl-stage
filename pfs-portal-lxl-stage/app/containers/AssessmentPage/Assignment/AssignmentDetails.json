@@ -1,0 +1,653 @@
+{
+  "fileSize": [
+   {"value": 0, "valueText": "", "label": "Site upload limit (750MB)" },
+   {"value": 786432000,"valueText": "750MB", "label": "750MB" },
+   {"value": 524288000,"valueText": "500MB",  "label": "500MB" },
+   {"value": 262144000,"valueText": "250MB","label": "250MB" },
+   {"value": 104857600,"valueText": "100MB","label": "100MB" },
+   {"value": 52428800,"valueText": "50MB","label": "50MB" },
+   {"value": 20971520,"valueText": "20MB","label": "20MB" },
+   {"value": 10485760,"valueText": "10MB","label": "10MB" },
+   {"value": 5242880,"valueText": "5MB","label": "5MB" },
+   {"value": 2097152,"valueText": "2MB","label": "2MB" },
+   {"value": 1048576,"valueText": "1MB","label": "1MB" },
+   {"value": 512000,"valueText": "500KB","label": "500KB" },
+   {"value": 102400,"valueText": "100KB","label": "100KB" },
+   {"value": 51200,"valueText": "50KB","label": "50KB" },
+   {"value": 10240,"valueText": "10KB","label": "10KB" } 
+  ],
+  "fileFormatLists":[
+    {"type": "pdf", "ext": ".pdf", "value": true,  "label": "PDF document (.pdf)" },
+    {"type": "bmp", "ext": ".bmp", "value": false, "label": "Bitmap Image File(.bmp)"},
+    {"type": "xls", "ext": ".xls", "value": false, "label": "Microsoft Excel Document(.xls)" },
+    {"type": "ppt", "ext": ".ppt", "value": false, "label": "PowerPoint Presentation(.ppt)" },
+    {"type": "docx","ext": ".docx", "value": false, "label": "Microsoft Word Open XML Document(.docx)"},
+    {"type": "txt", "ext": ".txt", "value": false, "label": "Plain Text File(.txt)" },
+    {"type": "jpg", "ext": ".jpg", "value": false, "label": "JPEG Image(.jpg)" },
+    {"type": "doc", "ext": ".doc", "value": false, "label": "Microsoft Word Document(.doc)" },
+    {"type": "rtf", "ext": ".rtf", "value": false, "label": "Rich Text Format(.rtf)" }
+  ],
+  "MinimumTimeAssignment": [
+    "% of exam time duration",
+    "Time"
+  ],
+  "AttemptRedo": [
+    {
+      "label": "Yes, provide option to try another question",
+      "value": "1"
+    },
+    {
+      "label": "No",
+      "value": "0"
+    }
+  ],
+  "OnTimeExpirations": [
+    {
+      "label": "Open attempts are submitted automatically",
+      "value": "autosubmit"
+    },
+    {
+      "label": "There is a grace period when open attempts can be submitted, but no more questions answered",
+      "value": "graceperiod"
+    },
+    {
+      "label": "Attempts must be submitted before time expires, or they are not counted",
+      "value": "autoabandon"
+    }
+  ],
+  "SubmissionGracePeriods": [
+    {
+      "label": "Weeks",
+      "value": 604800
+    },
+    {
+      "label": "Days",
+      "value": 86400
+    },
+    {
+      "label": "Hours",
+      "value": 3600
+    },
+    {
+      "label": "Minutes",
+      "value": 60
+    },
+    {
+      "label": "Seconds",
+      "value": 1
+    }
+  ],
+  "sectionalTimeCutOffOptions": [
+    {
+      "label": "Select",
+      "value": "0"
+    }
+  ],
+  "RestrictedAccess": {
+    "activityCompData": [
+      {
+        "label": "must be marked complete",
+        "value": "must be marked complete"
+      },
+      {
+        "label": "must not marked complete",
+        "value": "must not marked complete"
+      },
+      {
+        "label": "must be completed with pass grade",
+        "value": "must be completed with pass grade"
+      },
+      {
+        "label": "must be completed with fail grade",
+        "value": "must be completed with fail grade"
+      }
+    ],
+    "profileField1": [
+      {
+        "label": "Address",
+        "value": "Address"
+      },
+      {
+        "label": "AIM ID",
+        "value": "AIM ID"
+      },
+      {
+        "label": "City/town",
+        "value": "City/town"
+      },
+      {
+        "label": "Country",
+        "value": "Country"
+      },
+      {
+        "label": "Department",
+        "value": "Department"
+      },
+      {
+        "label": "Email address",
+        "value": "Email address"
+      },
+      {
+        "label": "First name",
+        "value": "First name"
+      },
+      {
+        "label": "ICQ number",
+        "value": "ICQ number"
+      },
+      {
+        "label": "ID number",
+        "value": "ID number"
+      },
+      {
+        "label": "Institution",
+        "value": "Institution"
+      },
+      {
+        "label": "Mobile phone",
+        "value": "Mobile phone"
+      },
+      {
+        "label": "MSN ID",
+        "value": "MSN ID"
+      },
+      {
+        "label": "Phone",
+        "value": "Phone"
+      },
+      {
+        "label": "Skype ID",
+        "value": "Skype ID"
+      },
+      {
+        "label": "Surname",
+        "value": "Surname"
+      },
+      {
+        "label": "Web page",
+        "value": "Web page"
+      },
+      {
+        "label": "Yahoo ID",
+        "value": "Yahoo ID"
+      }
+    ],
+    "profileField2": [
+      {
+        "label": "is equal to",
+        "value": "is equal to"
+      },
+      {
+        "label": "contains",
+        "value": "contains"
+      },
+      {
+        "label": "doesn’t contain",
+        "value": "doesn’t contain"
+      },
+      {
+        "label": "starts with",
+        "value": "starts with"
+      },
+      {
+        "label": "ends with",
+        "value": "ends with"
+      },
+      {
+        "label": "is empty",
+        "value": "is empty"
+      },
+      {
+        "label": "is not empty",
+        "value": "is not empty"
+      }
+    ],
+    "Grade": [
+      {
+        "label": "Course total",
+        "value": "Course total"
+      }
+    ]
+  },
+  "Grouping": [
+    {
+      "label": "None",
+      "value": 0
+    }
+  ],
+  "CourseCompetency": [
+    {
+      "label": "No Selection",
+      "value": 0
+    }
+  ],
+  "SafeExamBrowser": [
+    {
+      "label": "Show Safe Exam Browser download button",
+      "valueName": "seb_showsebdownloadlink"
+    },
+    {
+      "label": "Ask user to confirm quitting?",
+      "valueName": "seb_userconfirmquit"
+    },
+    {
+      "label": "Enable quitting of SEB",
+      "valueName": "seb_allowuserquitseb"
+    },
+    {
+      "label": "Enable reload in exam",
+      "valueName": "seb_allowreloadinexam"
+    },
+    {
+      "label": "Show SEB task bar",
+      "valueName": "seb_showsebtaskbar"
+    },
+    {
+      "label": "Show reload button",
+      "valueName": "seb_showreloadbutton"
+    },
+    {
+      "label": "Show time",
+      "valueName": "seb_showtime"
+    },
+    {
+      "label": "Show keyboard layout",
+      "valueName": "seb_showkeyboardlayout"
+    },
+    {
+      "label": "Show Wi-Fi control",
+      "valueName": "seb_showwificontrol"
+    },
+    {
+      "label": "Enable audio controls",
+      "valueName": "seb_enableaudiocontrol"
+    },
+    {
+      "label": "Enable spell checking",
+      "valueName": "seb_allowspellchecking"
+    },
+    {
+      "label": "Enable URL filtering",
+      "valueName": "seb_activateurlfiltering"
+    },
+    {
+      "label": "Mute on startup",
+      "valueName": "seb_muteonstartup"
+    }
+  ],
+  "examDuration": [
+    {
+      "label": "20%",
+      "value": "20%"
+    },
+    {
+      "label": "40%",
+      "value": "40%"
+    },
+    {
+      "label": "60%",
+      "value": "60%"
+    },
+    {
+      "label": "100%",
+      "value": "100%"
+    }
+  ],
+  "CourseComponent": [
+    {
+      "label": "Course 1",
+      "value": "Course 1"
+    },
+    {
+      "label": "Course 2",
+      "value": "Course 2"
+    },
+    {
+      "label": "Course 3",
+      "value": "Course 3"
+    }
+  ],
+  "TotalMarks": [
+    {
+      "label": "30",
+      "value": "30"
+    },
+    {
+      "label": "60",
+      "value": "60"
+    },
+    {
+      "label": "80",
+      "value": "80"
+    },
+    {
+      "label": "100",
+      "value": "100"
+    }
+  ],
+  "selectMarks": [
+    {
+      "label": "Select",
+      "value": "Select"
+    },
+    {
+      "label": "20%",
+      "value": "20%"
+    },
+    {
+      "label": "40%",
+      "value": "40%"
+    },
+    {
+      "label": "60%",
+      "value": "60%"
+    },
+    {
+      "label": "100%",
+      "value": "100%"
+    }
+  ],
+  "AttemptsAllowed": [
+    {
+      "label": "Unlimited",
+      "value": "0"
+    },
+    {
+      "label": "1 Attempt",
+      "value": "1"
+    },
+    {
+      "label": "2 Attempts",
+      "value": "2"
+    },
+    {
+      "label": "3 Attempts",
+      "value": "3"
+    },
+    {
+      "label": "4 Attempts",
+      "value": "4"
+    },
+    {
+      "label": "5 Attempts",
+      "value": "5"
+    },
+    {
+      "label": "6 Attempts",
+      "value": "6"
+    }
+  ],
+  "GradeMethods": [
+    {
+      "label": "Highest grade",
+      "value": 1
+    },
+    {
+      "label": "Average grade",
+      "value": 2
+    },
+    {
+      "label": "First Attempt",
+      "value": 3
+    },
+    {
+      "label": "Last Attempt",
+      "value": 4
+    }
+  ],
+  "CommonModuleGrouping": [
+    "No groups",
+    "Separate groups",
+    "Visible groups"
+  ],
+  "QuestionPerPage": [
+    {
+      "label": "All question in 1 page",
+      "value": "0"
+    },
+    {
+      "label": "1 question each page",
+      "value": 1
+    },
+    {
+      "label": "2 question each page",
+      "value": 2
+    },
+    {
+      "label": "3 question each page",
+      "value": 3
+    },
+    {
+      "label": "4 question each page",
+      "value": 4
+    },
+    {
+      "label": "5 question each page",
+      "value": 5
+    },
+    {
+      "label": "6 question each page",
+      "value": 6
+    },
+    {
+      "label": "7 question each page",
+      "value": 7
+    },
+    {
+      "label": "8 question each page",
+      "value": 8
+    },
+    {
+      "label": "9 question each page",
+      "value": 9
+    },
+    {
+      "label": "10 question each page",
+      "value": 10
+    },
+    {
+      "label": "Section wise",
+      "value": 11
+    }
+  ],
+  "ShuffleWithInAnswers": [
+    {
+      "label": "Yes",
+      "value": 1
+    },
+    {
+      "label": "No",
+      "value": 0
+    }
+  ],
+  "QuestionBehaviour": [
+    {
+      "label": "Adaptive mode",
+      "value": "adaptive"
+    },
+    {
+      "label": "Adaptive mode (No penalities)",
+      "value": "adaptivenopenalty"
+    },
+    {
+      "label": "Deferred feedback",
+      "value": "deferredfeedback"
+    },
+    {
+      "label": "Deferred feedback with CBM",
+      "value": "deferredcbm"
+    },
+    {
+      "label": "Immediate feedback",
+      "value": "immediatefeedback"
+    },
+    {
+      "label": "Immediate feedback with CBM",
+      "value": "immediatecbm"
+    },
+    {
+      "label": "Interactive with multiple tries",
+      "value": "interactive"
+    }
+  ],
+  "ActivityData": [
+    {
+      "label": "No indication on activity completion",
+      "value": "0"
+    },
+    {
+      "label": "Students can manually mark the activity as completed",
+      "value": "1"
+    },
+    {
+      "label": "Show activity as complete when conditions are met",
+      "value": "2"
+    }
+  ],
+  "ActivityWhenConditionMet": [
+    "Student must view this activity to complete it",
+    "Student must receive a grade to complete this activity",
+    "Require passing grade",
+    "Or all available attempts completed"
+  ],
+  "Competencies": [
+    {
+      "label": "Do nothing",
+      "value": "0"
+    },
+    {
+      "label": "Attach evidence",
+      "value": "1"
+    },
+    {
+      "label": "Send for review",
+      "value": "2"
+    },
+    {
+      "label": "Complete the competency",
+      "value": "3"
+    }
+  ],
+  "layOutRadioOption": [
+    {
+      "label": "Free navigation",
+      "value": "free"
+    },
+    {
+      "label": "Sequential",
+      "value": "sequential"
+    }
+  ],
+  "exam": [
+    {
+      "name": "Half-Yearly",
+      "value": [
+        "P&P",
+        "MA",
+        "Sub-En",
+        "Portfolio",
+        "Half-Yearly"
+      ]
+    },
+    {
+      "name": "Annual",
+      "value": [
+        "P&P",
+        "MA",
+        "Sub-En",
+        "Portfolio",
+        "Annual"
+      ]
+    }
+  ],
+  "AssessmentGradedArray": [
+    {
+      "label": "Yes",
+      "value": 1
+    },
+    {
+      "label": "No",
+      "value": 0
+    }
+  ],
+  "QuestionGrades": [
+    {
+      "label": "Same as for overall grades",
+      "value": -1
+    },
+    {
+      "label": "0",
+      "value": 0
+    },
+    {
+      "label": "1",
+      "value": 1
+    },
+    {
+      "label": "2",
+      "value": 2
+    },
+    {
+      "label": "3",
+      "value": 3
+    },
+    {
+      "label": "4",
+      "value": 4
+    },
+    {
+      "label": "5",
+      "value": 5
+    },
+    {
+      "label": "6",
+      "value": 6
+    },
+    {
+      "label": "7",
+      "value": 7
+    }
+  ],
+  "StudentDetails": [
+    {
+      "studentName": "Floyd Miles",
+      "studentId": 1001
+    },
+    {
+      "studentName": "Floyd Miles",
+      "studentId": 1002
+    },
+    {
+      "studentName": "Floyd Miles",
+      "studentId": 1003
+    },
+    {
+      "studentName": "Floyd Miles",
+      "studentId": 1004
+    },
+    {
+      "studentName": "Floyd Miles",
+      "studentId": 1005
+    },
+    {
+      "studentName": "Floyd Miles",
+      "studentId": 1006
+    },
+    {
+      "studentName": "Floyd Miles",
+      "studentId": 1007
+    },
+    {
+      "studentName": "Floyd Miles",
+      "studentId": 1008
+    },
+    {
+      "studentName": "Floyd Miles",
+      "studentId": 1009
+    },
+    {
+      "studentName": "Floyd Miles",
+      "studentId": 1010
+    }
+  ]
+}

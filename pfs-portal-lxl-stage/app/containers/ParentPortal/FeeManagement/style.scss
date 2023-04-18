@@ -1,0 +1,44 @@
+.input-field-item {
+  width: 290px;
+  input {
+    font-size: 12px;
+  }
+  div#mui-component-select-collectionFrequency {
+    font-size: 12px;
+  }
+}
+
+.fee-management-my-cart-table {
+  .Fee_Type_Name__c {
+    width: 280px;
+    text-align: left;
+  }
+  .fee_type_id,
+  .Fee_Amount__c {
+    width: 210px;
+  }
+  .checked {
+    width: 60px;
+  }
+  .K42_Payment_Schedule__c {
+    width: 300px;
+  }
+}
+.fee-management-fee-payment-table {
+  .Fee_Type__c {
+    width: 280px;
+    text-align: left;
+  }
+  .Planned_Amount_Payable__c{
+    width: 210px;
+  }
+  .amount {
+    width: 110px;
+  }
+  .checked {
+    width: 110px;
+  }
+  .amountBeingPay {
+    width: 110px;
+  }
+}

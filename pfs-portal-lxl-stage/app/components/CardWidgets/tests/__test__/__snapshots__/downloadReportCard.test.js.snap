@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DownloadReportCard renders correctly DownloadReportCard children render correctly 1`] = `
+<div
+  class="MuiPaper-root makeStyles-root-1 MuiPaper-elevation0 MuiPaper-rounded"
+  data-testid="download-report-card"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-align-content-xs-center"
+  >
+    <div
+      class="MuiGrid-root makeStyles-endIcon-4 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-9"
+    >
+      <ul
+        aria-label="download report card"
+        class="MuiList-root MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root MuiListItem-gutters"
+        >
+          <div
+            class="MuiListItemIcon-root"
+          >
+            <img
+              class="makeStyles-startIcon-3"
+              data-testid="assessment-image"
+              src="IMAGE_MOCK"
+            />
+          </div>
+          <div
+            class="MuiListItemText-root"
+            data-testid="program-name"
+          />
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-buttonGrid-5 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-outlined KenButton__KenButtonDefault-sc-1sg8ful-0 KenButton__KenButtonSecondary-sc-1sg8ful-1 hFyXYS MuiButton-outlinedPrimary MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+        data-testid="download-button"
+        label="labels:Download_Report_Card"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          <span
+            class="MuiButton-startIcon MuiButton-iconSizeSmall"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-img-2"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"
+              />
+            </svg>
+          </span>
+          labels:Download_Report_Card
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

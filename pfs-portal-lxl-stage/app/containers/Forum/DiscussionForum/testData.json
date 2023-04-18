@@ -1,0 +1,332 @@
+{
+    "DiscussionnCardData": [{
+            "id": "discussion1",
+            "heading": "How do I change the place files are  saved in classroom?",
+            "discription": "Changes have recently been made to control who can ...",
+            "date": "11 Mar"
+        },
+        {
+            "id": "discussion2",
+            "heading": "Web technology project discussion ",
+            "discription": "Changes have recently been made to control who can ...",
+            "date": "10 Mar"
+        },
+        {
+            "id": "discussion3",
+            "heading": "How do I change the place files are automatically saved in classroom?",
+            "discription": "I'd like the work students submit to be saved to their w...",
+            "date": "15 Mar"
+        },
+        {
+            "id": "discussion4",
+            "heading": "How do I change the place files are automatically saved in classroom?",
+            "discription": "Changes have recently been made to control who can ...",
+            "date": "18 Mar"
+        },
+        {
+            "id": "discussion5",
+            "heading": "How do I change the place files are automatically saved in classroom?",
+            "discription": "Changes have recently been made to control who can ...",
+            "date": "18 Mar"
+        }
+    ],
+    "DiscussionReplyData": [{
+        "heading": "How do I change the place files are automatically saved in classroom?",
+        "description": "Hey Everyone! Changes have recently been made to control who can unenroll from a class. Admins can now assign the  unenrollment settings at the ..."
+    }],
+    "ActiveCardData": [{
+            "id": "discussion1",
+            "heading": "I am just surprised at how similar your interests are to mines. ",
+            "username": "Robert ",
+            "lastseen": "1 Week ago"
+        },
+        {
+            "id": "discussion1",
+            "heading": "I am just surprised at how similar your interests are to mines. ",
+            "username": "Maria ",
+            "lastseen": "1 Week ago"
+        },
+        {
+            "id": "discussion1",
+            "heading": "I am just surprised at how similar your interests are to mines. ",
+            "username": "Robert Fox ",
+            "lastseen": "1 Week ago"
+        },
+        {
+            "id": "discussion2",
+            "heading": "I am just surprised at how similar your interests are to mines. ",
+            "username": "Martin ",
+            "lastseen": "1 Week ago"
+        },
+        {
+            "id": "discussion3",
+            "heading": "I am just surprised at how similar your interests are to mines. ",
+            "username": "Ammy",
+            "lastseen": "1 Week ago"
+        },
+        {
+            "id": "discussion4",
+            "heading": "I am just surprised at how similar your interests are to mines. ",
+            "username": "john",
+            "lastseen": "1 Week ago"
+        },
+        {
+            "id": "discussion5",
+            "heading": "I am just surprised at how similar your interests are to mines. ",
+            "username": "Wilson",
+            "lastseen": "1 Week ago"
+        }
+    ],
+    "DiscussionDetails": [{
+        "cretedBy": "Payal Patrick",
+        "createdOn": 1658485545,
+        "subject": "Web Technology",
+        "tags": [{
+            "key": 0,
+            "label": "Angular"
+        }],
+        "participants": {
+            "classParticipants": "cse",
+            "section": [
+                "A",
+                "B"
+            ],
+            "count": 50
+        },
+        "status": true,
+        "totalReplies": 34,
+        "lastPostOn": 1658312738
+    }],
+    "Sharedfiles": [{
+            "heading": "Web Standards",
+            "subject": "Web Technology",
+            "type": "ppt"
+        },
+        {
+            "heading": "Chapt./lesson/ma..._file....",
+            "subject": "Web Technology",
+            "type": "video"
+        },
+        {
+            "heading": "Web Standards",
+            "subject": "Web Technology",
+            "type": "ppt"
+        },
+        {
+            "heading": "Web Standards",
+            "subject": "Web Technology",
+            "type": "ppt"
+        }
+    ],
+    "studentData": [{
+            "id": 1,
+            "firstName": "Felicdad",
+            "lastName": "Eastwood",
+            "rollNumber": "cczlSQrVN",
+            "gender": "Female"
+        },
+        {
+            "id": 2,
+            "firstName": "Skell",
+            "lastName": "Cogin",
+            "rollNumber": "8N0XpTHCtk",
+            "gender": "Male"
+        },
+        {
+            "id": 3,
+            "firstName": "Maritsa",
+            "lastName": "Glendzer",
+            "rollNumber": "PrkDaOcNNq",
+            "gender": "Female"
+        },
+        {
+            "id": 4,
+            "firstName": "Kory",
+            "lastName": "Aizikowitz",
+            "rollNumber": "q2cVby90Qwnn",
+            "gender": "Male"
+        },
+        {
+            "id": 5,
+            "firstName": "Wilek",
+            "lastName": "Kahane",
+            "rollNumber": "uFYouPBS",
+            "gender": "Male"
+        },
+        {
+            "id": 6,
+            "firstName": "Westbrook",
+            "lastName": "Ruddin",
+            "rollNumber": "JzJKos",
+            "gender": "Male"
+        },
+        {
+            "id": 7,
+            "firstName": "Alicea",
+            "lastName": "Lannon",
+            "rollNumber": "GL09ML0nHmJy",
+            "gender": "Female"
+        },
+        {
+            "id": 8,
+            "firstName": "Gerard",
+            "lastName": "Cumbridge",
+            "rollNumber": "wdNXAVM32672",
+            "gender": "Male"
+        },
+        {
+            "id": 9,
+            "firstName": "Janot",
+            "lastName": "Siegertsz",
+            "rollNumber": "FD8xlPDs",
+            "gender": "Female"
+        },
+        {
+            "id": 10,
+            "firstName": "Pattie",
+            "lastName": "Brafferton",
+            "rollNumber": "pwqbdmR",
+            "gender": "Female"
+        },
+        {
+            "id": 11,
+            "firstName": "Shadow",
+            "lastName": "Guitel",
+            "rollNumber": "NQjId4OXQ",
+            "gender": "Male"
+        },
+        {
+            "id": 12,
+            "firstName": "Marthe",
+            "lastName": "Suttill",
+            "rollNumber": "tFK7R3Jfl0u",
+            "gender": "Female"
+        },
+        {
+            "id": 13,
+            "firstName": "Orsa",
+            "lastName": "Feavers",
+            "rollNumber": "akRsDCCE",
+            "gender": "Female"
+        },
+        {
+            "id": 14,
+            "firstName": "Gabi",
+            "lastName": "Salvatore",
+            "rollNumber": "36qWxFGL2qx",
+            "gender": "Male"
+        },
+        {
+            "id": 15,
+            "firstName": "Melonie",
+            "lastName": "Kebell",
+            "rollNumber": "rul5Zn6odcLZ",
+            "gender": "Female"
+        },
+        {
+            "id": 16,
+            "firstName": "Derrek",
+            "lastName": "Livezey",
+            "rollNumber": "8VRxP4UGGVu",
+            "gender": "Male"
+        },
+        {
+            "id": 17,
+            "firstName": "Stacy",
+            "lastName": "Semeniuk",
+            "rollNumber": "71vr1tFb1mWQ",
+            "gender": "Female"
+        },
+        {
+            "id": 18,
+            "firstName": "Margaretta",
+            "lastName": "Slowey",
+            "rollNumber": "dglWO2z",
+            "gender": "Female"
+        },
+        {
+            "id": 19,
+            "firstName": "Tanney",
+            "lastName": "Peeke",
+            "rollNumber": "Y4vocfD",
+            "gender": "Male"
+        },
+        {
+            "id": 20,
+            "firstName": "Brocky",
+            "lastName": "Dalbey",
+            "rollNumber": "0vwtGEB",
+            "gender": "Male"
+        },
+        {
+            "id": 21,
+            "firstName": "Florian",
+            "lastName": "Dyer",
+            "rollNumber": "uHwSlDg3CpD",
+            "gender": "Male"
+        },
+        {
+            "id": 22,
+            "firstName": "Tabbie",
+            "lastName": "Ottawell",
+            "rollNumber": "B9Y3LeC",
+            "gender": "Male"
+        },
+        {
+            "id": 23,
+            "firstName": "Bertina",
+            "lastName": "Arni",
+            "rollNumber": "ZUETUaxuA",
+            "gender": "Female"
+        },
+        {
+            "id": 24,
+            "firstName": "Hayley",
+            "lastName": "Stanyard",
+            "rollNumber": "RR0K0xrmCf",
+            "gender": "Female"
+        },
+        {
+            "id": 25,
+            "firstName": "Joyous",
+            "lastName": "Dorsett",
+            "rollNumber": "n4GNHomIw",
+            "gender": "Female"
+        },
+        {
+            "id": 26,
+            "firstName": "Joletta",
+            "lastName": "Mithan",
+            "rollNumber": "QRA4KZsj",
+            "gender": "Female"
+        },
+        {
+            "id": 27,
+            "firstName": "Benedick",
+            "lastName": "Thomkins",
+            "rollNumber": "ugHCdVrqEJH",
+            "gender": "Male"
+        },
+        {
+            "id": 28,
+            "firstName": "Gay",
+            "lastName": "Veschambes",
+            "rollNumber": "9dUmojaYJ",
+            "gender": "Male"
+        },
+        {
+            "id": 29,
+            "firstName": "Beniamino",
+            "lastName": "Binks",
+            "rollNumber": "Jj8wmlnbkoX",
+            "gender": "Male"
+        },
+        {
+            "id": 30,
+            "firstName": "Brand",
+            "lastName": "Morriss",
+            "rollNumber": "RiCx5PJWiwV",
+            "gender": "Male"
+        }
+    ]
+}

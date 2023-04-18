@@ -1,0 +1,1730 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OptionCardContent should render correctly with props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-148"
+/>
+`;
+
+exports[`OptionCardContent should render correctly with props 2`] = `
+<div
+  class="MuiBox-root MuiBox-root-155 makeStyles-content-153"
+>
+  <div
+    class="MuiBox-root MuiBox-root-156"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-157 makeStyles-container-150"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-149 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-158"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-159 makeStyles-container-150"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-149 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-160"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-161 makeStyles-container-150"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-149 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-162"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-163 makeStyles-container-150"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-149 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-164"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-165 makeStyles-container-150"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-149 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-166"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-167 makeStyles-container-150"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-149 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-168"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-169 makeStyles-container-150"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-149 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`OptionLabel should render correctly with props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-107 makeStyles-container-104"
+>
+  <div
+    class="MuiBox-root MuiBox-root-108 makeStyles-circle-105"
+    style="background: red;"
+  />
+  <p
+    class="MuiTypography-root makeStyles-label-106 MuiTypography-body1"
+    data-testid="option-label"
+  >
+    Hello
+  </p>
+</div>
+`;
+
+exports[`OptionLabel should render correctly without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-102 makeStyles-container-99"
+>
+  <div
+    class="MuiBox-root MuiBox-root-103 makeStyles-circle-100"
+  />
+  <p
+    class="MuiTypography-root makeStyles-label-101 MuiTypography-body1"
+    data-testid="option-label"
+  />
+</div>
+`;
+
+exports[`OptionsSelection should render correctly with props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-74 makeStyles-bg-73"
+>
+  <p
+    class="MuiTypography-root MuiTypography-body1"
+  >
+    labels:Review_Options_Settings
+  </p>
+  <div
+    class="MuiBox-root MuiBox-root-75"
+  >
+    <div
+      class="MuiFormGroup-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <label
+          class="MuiFormControlLabel-root"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-78 MuiCheckbox-root Component-root-76"
+            component-root="[object Object]"
+            style="margin-right: -20px;"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-81"
+                data-indeterminate="false"
+                name="name"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          />
+        </label>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+          style="font-size: 12px; color: rgb(122, 134, 154);"
+        >
+           
+          <div
+            class="MuiBox-root MuiBox-root-85 makeStyles-container-82"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-86 makeStyles-circle-83"
+              style="background: rgb(235, 113, 108);"
+            />
+            <p
+              class="MuiTypography-root makeStyles-label-84 MuiTypography-body1"
+              data-testid="option-label"
+            >
+              The attempt
+            </p>
+          </div>
+           
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiFormGroup-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <label
+          class="MuiFormControlLabel-root"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-78 MuiCheckbox-root Component-root-76"
+            component-root="[object Object]"
+            style="margin-right: -20px;"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-81"
+                data-indeterminate="false"
+                name="name"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          />
+        </label>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+          style="font-size: 12px; color: rgb(122, 134, 154);"
+        >
+           
+          <div
+            class="MuiBox-root MuiBox-root-87 makeStyles-container-82"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-88 makeStyles-circle-83"
+              style="background: rgb(67, 180, 180);"
+            />
+            <p
+              class="MuiTypography-root makeStyles-label-84 MuiTypography-body1"
+              data-testid="option-label"
+            >
+              Whether correct
+            </p>
+          </div>
+           
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiFormGroup-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <label
+          class="MuiFormControlLabel-root"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-78 MuiCheckbox-root Component-root-76"
+            component-root="[object Object]"
+            style="margin-right: -20px;"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-81"
+                data-indeterminate="false"
+                name="name"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          />
+        </label>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+          style="font-size: 12px; color: rgb(122, 134, 154);"
+        >
+           
+          <div
+            class="MuiBox-root MuiBox-root-89 makeStyles-container-82"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-90 makeStyles-circle-83"
+              style="background: rgb(9, 38, 130);"
+            />
+            <p
+              class="MuiTypography-root makeStyles-label-84 MuiTypography-body1"
+              data-testid="option-label"
+            >
+              Marks
+            </p>
+          </div>
+           
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiFormGroup-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <label
+          class="MuiFormControlLabel-root"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-78 MuiCheckbox-root Component-root-76"
+            component-root="[object Object]"
+            style="margin-right: -20px;"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-81"
+                data-indeterminate="false"
+                name="name"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          />
+        </label>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+          style="font-size: 12px; color: rgb(122, 134, 154);"
+        >
+           
+          <div
+            class="MuiBox-root MuiBox-root-91 makeStyles-container-82"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-92 makeStyles-circle-83"
+              style="background: rgb(255, 157, 84);"
+            />
+            <p
+              class="MuiTypography-root makeStyles-label-84 MuiTypography-body1"
+              data-testid="option-label"
+            >
+              Specific feedback
+            </p>
+          </div>
+           
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiFormGroup-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <label
+          class="MuiFormControlLabel-root"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-78 MuiCheckbox-root Component-root-76"
+            component-root="[object Object]"
+            style="margin-right: -20px;"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-81"
+                data-indeterminate="false"
+                name="name"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          />
+        </label>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+          style="font-size: 12px; color: rgb(122, 134, 154);"
+        >
+           
+          <div
+            class="MuiBox-root MuiBox-root-93 makeStyles-container-82"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-94 makeStyles-circle-83"
+              style="background: rgb(0, 119, 255);"
+            />
+            <p
+              class="MuiTypography-root makeStyles-label-84 MuiTypography-body1"
+              data-testid="option-label"
+            >
+              General feedback
+            </p>
+          </div>
+           
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiFormGroup-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <label
+          class="MuiFormControlLabel-root"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-78 MuiCheckbox-root Component-root-76"
+            component-root="[object Object]"
+            style="margin-right: -20px;"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-81"
+                data-indeterminate="false"
+                name="name"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          />
+        </label>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+          style="font-size: 12px; color: rgb(122, 134, 154);"
+        >
+           
+          <div
+            class="MuiBox-root MuiBox-root-95 makeStyles-container-82"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-96 makeStyles-circle-83"
+              style="background: rgb(80, 95, 121);"
+            />
+            <p
+              class="MuiTypography-root makeStyles-label-84 MuiTypography-body1"
+              data-testid="option-label"
+            >
+              Right answer
+            </p>
+          </div>
+           
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiFormGroup-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <label
+          class="MuiFormControlLabel-root"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-78 MuiCheckbox-root Component-root-76"
+            component-root="[object Object]"
+            style="margin-right: -20px;"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-81"
+                data-indeterminate="false"
+                name="name"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          />
+        </label>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+          style="font-size: 12px; color: rgb(122, 134, 154);"
+        >
+           
+          <div
+            class="MuiBox-root MuiBox-root-97 makeStyles-container-82"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-98 makeStyles-circle-83"
+              style="background: rgb(153, 122, 255);"
+            />
+            <p
+              class="MuiTypography-root makeStyles-label-84 MuiTypography-body1"
+              data-testid="option-label"
+            >
+              Overall feedback
+            </p>
+          </div>
+           
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`OptionsSelection should render correctly without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-71 makeStyles-bg-70"
+>
+  <p
+    class="MuiTypography-root MuiTypography-body1"
+  >
+    labels:Review_Options_Settings
+  </p>
+  <div
+    class="MuiBox-root MuiBox-root-72"
+  />
+</div>
+`;
+
+exports[`ReviewOptions should render correctly 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-5 makeStyles-timeContainer-1"
+>
+  <div
+    class="MuiBox-root MuiBox-root-6 makeStyles-timeWrap-2"
+  >
+    <p
+      class="MuiTypography-root makeStyles-header-3 MuiTypography-body1"
+    >
+      labels:Review_Options_Settings
+    </p>
+    <div
+      class="makeStyles-root-7"
+    >
+      <header
+        class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorDefault makeStyles-appBar-9 MuiPaper-elevation0"
+      >
+        <div
+          class="MuiTabs-root makeStyles-tabs-8"
+        >
+          <div
+            class="MuiTabs-scrollable"
+            style="width: 99px; height: 99px; position: absolute; top: -9999px; overflow: scroll;"
+          />
+          <div
+            class="MuiTabs-scroller MuiTabs-scrollable"
+            style="margin-bottom: 0px;"
+          >
+            <div
+              aria-label="scrollable auto tabs example"
+              class="MuiTabs-flexContainer"
+              role="tablist"
+            >
+              <button
+                aria-controls="scrollable-auto-tabpanel-0"
+                aria-selected="true"
+                class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary Mui-selected"
+                id="scrollable-auto-tab-0"
+                role="tab"
+                style="text-transform: none;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper"
+                >
+                  During the attempt
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-controls="scrollable-auto-tabpanel-1"
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary"
+                id="scrollable-auto-tab-1"
+                role="tab"
+                style="text-transform: none;"
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper"
+                >
+                  Immediately after attempt
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-controls="scrollable-auto-tabpanel-2"
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary"
+                id="scrollable-auto-tab-2"
+                role="tab"
+                style="text-transform: none;"
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper"
+                >
+                  Later (quiz open)
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-controls="scrollable-auto-tabpanel-3"
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary"
+                id="scrollable-auto-tab-3"
+                role="tab"
+                style="text-transform: none;"
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper"
+                >
+                  Quiz closed
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <span
+              class="PrivateTabIndicator-root-10 PrivateTabIndicator-colorPrimary-11 MuiTabs-indicator"
+              style="left: 0px; width: 0px;"
+            />
+          </div>
+        </div>
+      </header>
+      <div
+        aria-labelledby="scrollable-auto-tab-0"
+        class="makeStyles-tabPanel-4"
+        id="scrollable-auto-tabpanel-0"
+        role="tabpanel"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-14"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-15"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-16"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-12 MuiGrid-grid-md-3"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-18 makeStyles-bg-17"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1"
+                    >
+                      labels:Review_Options_Settings
+                    </p>
+                    <div
+                      class="MuiBox-root MuiBox-root-19"
+                    >
+                      <div
+                        class="MuiFormGroup-root"
+                      >
+                        <div
+                          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+                        >
+                          <label
+                            class="MuiFormControlLabel-root"
+                          >
+                            <span
+                              aria-disabled="false"
+                              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-22 MuiCheckbox-root Component-root-20"
+                              component-root="[object Object]"
+                              style="margin-right: -20px;"
+                            >
+                              <span
+                                class="MuiIconButton-label"
+                              >
+                                <input
+                                  class="PrivateSwitchBase-input-25"
+                                  data-indeterminate="false"
+                                  name="name"
+                                  type="checkbox"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root"
+                                  focusable="false"
+                                  viewBox="0 0 24 24"
+                                >
+                                  <path
+                                    d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                                  />
+                                </svg>
+                              </span>
+                              <span
+                                class="MuiTouchRipple-root"
+                              />
+                            </span>
+                            <span
+                              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                            />
+                          </label>
+                          <p
+                            class="MuiTypography-root MuiTypography-body1"
+                            style="font-size: 12px; color: rgb(122, 134, 154);"
+                          >
+                             
+                            <div
+                              class="MuiBox-root MuiBox-root-29 makeStyles-container-26"
+                            >
+                              <div
+                                class="MuiBox-root MuiBox-root-30 makeStyles-circle-27"
+                                style="background: rgb(235, 113, 108);"
+                              />
+                              <p
+                                class="MuiTypography-root makeStyles-label-28 MuiTypography-body1"
+                                data-testid="option-label"
+                              >
+                                The attempt
+                              </p>
+                            </div>
+                             
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiFormGroup-root"
+                      >
+                        <div
+                          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+                        >
+                          <label
+                            class="MuiFormControlLabel-root"
+                          >
+                            <span
+                              aria-disabled="false"
+                              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-22 MuiCheckbox-root Component-root-20"
+                              component-root="[object Object]"
+                              style="margin-right: -20px;"
+                            >
+                              <span
+                                class="MuiIconButton-label"
+                              >
+                                <input
+                                  class="PrivateSwitchBase-input-25"
+                                  data-indeterminate="false"
+                                  name="name"
+                                  type="checkbox"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root"
+                                  focusable="false"
+                                  viewBox="0 0 24 24"
+                                >
+                                  <path
+                                    d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                                  />
+                                </svg>
+                              </span>
+                              <span
+                                class="MuiTouchRipple-root"
+                              />
+                            </span>
+                            <span
+                              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                            />
+                          </label>
+                          <p
+                            class="MuiTypography-root MuiTypography-body1"
+                            style="font-size: 12px; color: rgb(122, 134, 154);"
+                          >
+                             
+                            <div
+                              class="MuiBox-root MuiBox-root-31 makeStyles-container-26"
+                            >
+                              <div
+                                class="MuiBox-root MuiBox-root-32 makeStyles-circle-27"
+                                style="background: rgb(67, 180, 180);"
+                              />
+                              <p
+                                class="MuiTypography-root makeStyles-label-28 MuiTypography-body1"
+                                data-testid="option-label"
+                              >
+                                Whether correct
+                              </p>
+                            </div>
+                             
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiFormGroup-root"
+                      >
+                        <div
+                          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+                        >
+                          <label
+                            class="MuiFormControlLabel-root"
+                          >
+                            <span
+                              aria-disabled="false"
+                              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-22 MuiCheckbox-root Component-root-20"
+                              component-root="[object Object]"
+                              style="margin-right: -20px;"
+                            >
+                              <span
+                                class="MuiIconButton-label"
+                              >
+                                <input
+                                  class="PrivateSwitchBase-input-25"
+                                  data-indeterminate="false"
+                                  name="name"
+                                  type="checkbox"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root"
+                                  focusable="false"
+                                  viewBox="0 0 24 24"
+                                >
+                                  <path
+                                    d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                                  />
+                                </svg>
+                              </span>
+                              <span
+                                class="MuiTouchRipple-root"
+                              />
+                            </span>
+                            <span
+                              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                            />
+                          </label>
+                          <p
+                            class="MuiTypography-root MuiTypography-body1"
+                            style="font-size: 12px; color: rgb(122, 134, 154);"
+                          >
+                             
+                            <div
+                              class="MuiBox-root MuiBox-root-33 makeStyles-container-26"
+                            >
+                              <div
+                                class="MuiBox-root MuiBox-root-34 makeStyles-circle-27"
+                                style="background: rgb(9, 38, 130);"
+                              />
+                              <p
+                                class="MuiTypography-root makeStyles-label-28 MuiTypography-body1"
+                                data-testid="option-label"
+                              >
+                                Marks
+                              </p>
+                            </div>
+                             
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiFormGroup-root"
+                      >
+                        <div
+                          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+                        >
+                          <label
+                            class="MuiFormControlLabel-root"
+                          >
+                            <span
+                              aria-disabled="false"
+                              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-22 MuiCheckbox-root Component-root-20"
+                              component-root="[object Object]"
+                              style="margin-right: -20px;"
+                            >
+                              <span
+                                class="MuiIconButton-label"
+                              >
+                                <input
+                                  class="PrivateSwitchBase-input-25"
+                                  data-indeterminate="false"
+                                  name="name"
+                                  type="checkbox"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root"
+                                  focusable="false"
+                                  viewBox="0 0 24 24"
+                                >
+                                  <path
+                                    d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                                  />
+                                </svg>
+                              </span>
+                              <span
+                                class="MuiTouchRipple-root"
+                              />
+                            </span>
+                            <span
+                              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                            />
+                          </label>
+                          <p
+                            class="MuiTypography-root MuiTypography-body1"
+                            style="font-size: 12px; color: rgb(122, 134, 154);"
+                          >
+                             
+                            <div
+                              class="MuiBox-root MuiBox-root-35 makeStyles-container-26"
+                            >
+                              <div
+                                class="MuiBox-root MuiBox-root-36 makeStyles-circle-27"
+                                style="background: rgb(255, 157, 84);"
+                              />
+                              <p
+                                class="MuiTypography-root makeStyles-label-28 MuiTypography-body1"
+                                data-testid="option-label"
+                              >
+                                Specific feedback
+                              </p>
+                            </div>
+                             
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiFormGroup-root"
+                      >
+                        <div
+                          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+                        >
+                          <label
+                            class="MuiFormControlLabel-root"
+                          >
+                            <span
+                              aria-disabled="false"
+                              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-22 MuiCheckbox-root Component-root-20"
+                              component-root="[object Object]"
+                              style="margin-right: -20px;"
+                            >
+                              <span
+                                class="MuiIconButton-label"
+                              >
+                                <input
+                                  class="PrivateSwitchBase-input-25"
+                                  data-indeterminate="false"
+                                  name="name"
+                                  type="checkbox"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root"
+                                  focusable="false"
+                                  viewBox="0 0 24 24"
+                                >
+                                  <path
+                                    d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                                  />
+                                </svg>
+                              </span>
+                              <span
+                                class="MuiTouchRipple-root"
+                              />
+                            </span>
+                            <span
+                              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                            />
+                          </label>
+                          <p
+                            class="MuiTypography-root MuiTypography-body1"
+                            style="font-size: 12px; color: rgb(122, 134, 154);"
+                          >
+                             
+                            <div
+                              class="MuiBox-root MuiBox-root-37 makeStyles-container-26"
+                            >
+                              <div
+                                class="MuiBox-root MuiBox-root-38 makeStyles-circle-27"
+                                style="background: rgb(0, 119, 255);"
+                              />
+                              <p
+                                class="MuiTypography-root makeStyles-label-28 MuiTypography-body1"
+                                data-testid="option-label"
+                              >
+                                General feedback
+                              </p>
+                            </div>
+                             
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiFormGroup-root"
+                      >
+                        <div
+                          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+                        >
+                          <label
+                            class="MuiFormControlLabel-root"
+                          >
+                            <span
+                              aria-disabled="false"
+                              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-22 MuiCheckbox-root Component-root-20"
+                              component-root="[object Object]"
+                              style="margin-right: -20px;"
+                            >
+                              <span
+                                class="MuiIconButton-label"
+                              >
+                                <input
+                                  class="PrivateSwitchBase-input-25"
+                                  data-indeterminate="false"
+                                  name="name"
+                                  type="checkbox"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root"
+                                  focusable="false"
+                                  viewBox="0 0 24 24"
+                                >
+                                  <path
+                                    d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                                  />
+                                </svg>
+                              </span>
+                              <span
+                                class="MuiTouchRipple-root"
+                              />
+                            </span>
+                            <span
+                              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                            />
+                          </label>
+                          <p
+                            class="MuiTypography-root MuiTypography-body1"
+                            style="font-size: 12px; color: rgb(122, 134, 154);"
+                          >
+                             
+                            <div
+                              class="MuiBox-root MuiBox-root-39 makeStyles-container-26"
+                            >
+                              <div
+                                class="MuiBox-root MuiBox-root-40 makeStyles-circle-27"
+                                style="background: rgb(80, 95, 121);"
+                              />
+                              <p
+                                class="MuiTypography-root makeStyles-label-28 MuiTypography-body1"
+                                data-testid="option-label"
+                              >
+                                Right answer
+                              </p>
+                            </div>
+                             
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiFormGroup-root"
+                      >
+                        <div
+                          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+                        >
+                          <label
+                            class="MuiFormControlLabel-root"
+                          >
+                            <span
+                              aria-disabled="false"
+                              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-22 MuiCheckbox-root Component-root-20"
+                              component-root="[object Object]"
+                              style="margin-right: -20px;"
+                            >
+                              <span
+                                class="MuiIconButton-label"
+                              >
+                                <input
+                                  class="PrivateSwitchBase-input-25"
+                                  data-indeterminate="false"
+                                  name="name"
+                                  type="checkbox"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root"
+                                  focusable="false"
+                                  viewBox="0 0 24 24"
+                                >
+                                  <path
+                                    d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                                  />
+                                </svg>
+                              </span>
+                              <span
+                                class="MuiTouchRipple-root"
+                              />
+                            </span>
+                            <span
+                              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                            />
+                          </label>
+                          <p
+                            class="MuiTypography-root MuiTypography-body1"
+                            style="font-size: 12px; color: rgb(122, 134, 154);"
+                          >
+                             
+                            <div
+                              class="MuiBox-root MuiBox-root-41 makeStyles-container-26"
+                            >
+                              <div
+                                class="MuiBox-root MuiBox-root-42 makeStyles-circle-27"
+                                style="background: rgb(153, 122, 255);"
+                              />
+                              <p
+                                class="MuiTypography-root makeStyles-label-28 MuiTypography-body1"
+                                data-testid="option-label"
+                              >
+                                Overall feedback
+                              </p>
+                            </div>
+                             
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-12 MuiGrid-grid-md-9"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-43"
+                    style="background-color: white;"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-51"
+                    >
+                      <p
+                        class="MuiTypography-root makeStyles-text-46 makeStyles-heading-47 MuiTypography-body1"
+                      >
+                        labels:Review_Assessments_Template_Que_Heading
+                      </p>
+                      <div
+                        class="MuiBox-root MuiBox-root-52 makeStyles-container-44"
+                      >
+                        <p
+                          class="MuiTypography-root makeStyles-text-46 MuiTypography-body1"
+                        >
+                          labels:Review_Assessments_Template_Que_Question
+                        </p>
+                        <p
+                          class="MuiTypography-root makeStyles-text-46 makeStyles-marks-48 MuiTypography-body1"
+                        >
+                          labels:Review_Assessments_Template_Que_Marks
+                        </p>
+                      </div>
+                      <ol
+                        class="makeStyles-text-46 makeStyles-ol-49"
+                        type="A"
+                      >
+                        <li
+                          class="makeStyles-li-50"
+                        >
+                          labels:Review_Assessments_Template_Que_Option_1
+                        </li>
+                        <li
+                          class="makeStyles-li-50"
+                        >
+                          labels:Review_Assessments_Template_Que_Option_2
+                        </li>
+                        <li
+                          class="makeStyles-li-50"
+                        >
+                          labels:Review_Assessments_Template_Que_Option_3
+                        </li>
+                        <li
+                          class="makeStyles-li-50"
+                        >
+                          labels:Review_Assessments_Template_Que_Option_4
+                        </li>
+                      </ol>
+                      <p
+                        class="MuiTypography-root makeStyles-text-46 MuiTypography-body1"
+                      >
+                        labels:Review_Assessments_Template_Que_Answer
+                      </p>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-53"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-labelledby="scrollable-auto-tab-1"
+        class="makeStyles-tabPanel-4"
+        hidden=""
+        id="scrollable-auto-tabpanel-1"
+        role="tabpanel"
+      />
+      <div
+        aria-labelledby="scrollable-auto-tab-2"
+        class="makeStyles-tabPanel-4"
+        hidden=""
+        id="scrollable-auto-tabpanel-2"
+        role="tabpanel"
+      />
+      <div
+        aria-labelledby="scrollable-auto-tab-3"
+        class="makeStyles-tabPanel-4"
+        hidden=""
+        id="scrollable-auto-tabpanel-3"
+        role="tabpanel"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ReviewOptionsTabPanel should render correctly 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-54"
+>
+  <div
+    class="MuiBox-root MuiBox-root-55"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-12 MuiGrid-grid-md-3"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-57 makeStyles-bg-56"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1"
+          >
+            labels:Review_Options_Settings
+          </p>
+          <div
+            class="MuiBox-root MuiBox-root-58"
+          />
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-12 MuiGrid-grid-md-9"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-59"
+          style="background-color: white;"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-67"
+          >
+            <p
+              class="MuiTypography-root makeStyles-text-62 makeStyles-heading-63 MuiTypography-body1"
+            >
+              labels:Review_Assessments_Template_Que_Heading
+            </p>
+            <div
+              class="MuiBox-root MuiBox-root-68 makeStyles-container-60"
+            >
+              <p
+                class="MuiTypography-root makeStyles-text-62 MuiTypography-body1"
+              >
+                labels:Review_Assessments_Template_Que_Question
+              </p>
+              <p
+                class="MuiTypography-root makeStyles-text-62 makeStyles-marks-64 MuiTypography-body1"
+              >
+                labels:Review_Assessments_Template_Que_Marks
+              </p>
+            </div>
+            <ol
+              class="makeStyles-text-62 makeStyles-ol-65"
+              type="A"
+            >
+              <li
+                class="makeStyles-li-66"
+              >
+                labels:Review_Assessments_Template_Que_Option_1
+              </li>
+              <li
+                class="makeStyles-li-66"
+              >
+                labels:Review_Assessments_Template_Que_Option_2
+              </li>
+              <li
+                class="makeStyles-li-66"
+              >
+                labels:Review_Assessments_Template_Que_Option_3
+              </li>
+              <li
+                class="makeStyles-li-66"
+              >
+                labels:Review_Assessments_Template_Que_Option_4
+              </li>
+            </ol>
+            <p
+              class="MuiTypography-root makeStyles-text-62 MuiTypography-body1"
+            >
+              labels:Review_Assessments_Template_Que_Answer
+            </p>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-69"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SampleQuestion should render correctly 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-140"
+>
+  <p
+    class="MuiTypography-root makeStyles-text-135 makeStyles-heading-136 MuiTypography-body1"
+  />
+  <div
+    class="MuiBox-root MuiBox-root-141 makeStyles-container-133"
+  >
+    <p
+      class="MuiTypography-root makeStyles-text-135 MuiTypography-body1"
+    />
+    <p
+      class="MuiTypography-root makeStyles-text-135 makeStyles-marks-137 MuiTypography-body1"
+    />
+  </div>
+  <ol
+    class="makeStyles-text-135 makeStyles-ol-138"
+    type="A"
+  >
+    <li
+      class="makeStyles-li-139"
+    />
+    <li
+      class="makeStyles-li-139"
+    />
+    <li
+      class="makeStyles-li-139"
+    />
+    <li
+      class="makeStyles-li-139"
+    />
+  </ol>
+  <p
+    class="MuiTypography-root makeStyles-text-135 MuiTypography-body1"
+  />
+</div>
+`;
+
+exports[`SelectedTabTemplate should render correctly with props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-122"
+  style="background-color: white;"
+>
+  <div
+    class="MuiBox-root MuiBox-root-130"
+  >
+    <p
+      class="MuiTypography-root makeStyles-text-125 makeStyles-heading-126 MuiTypography-body1"
+    >
+      labels:Review_Assessments_Template_Que_Heading
+    </p>
+    <div
+      class="MuiBox-root MuiBox-root-131 makeStyles-container-123"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-125 MuiTypography-body1"
+      >
+        labels:Review_Assessments_Template_Que_Question
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-text-125 makeStyles-marks-127 MuiTypography-body1"
+      >
+        labels:Review_Assessments_Template_Que_Marks
+      </p>
+    </div>
+    <ol
+      class="makeStyles-text-125 makeStyles-ol-128"
+      type="A"
+    >
+      <li
+        class="makeStyles-li-129"
+      >
+        labels:Review_Assessments_Template_Que_Option_1
+      </li>
+      <li
+        class="makeStyles-li-129"
+      >
+        labels:Review_Assessments_Template_Que_Option_2
+      </li>
+      <li
+        class="makeStyles-li-129"
+      >
+        labels:Review_Assessments_Template_Que_Option_3
+      </li>
+      <li
+        class="makeStyles-li-129"
+      >
+        labels:Review_Assessments_Template_Que_Option_4
+      </li>
+    </ol>
+    <p
+      class="MuiTypography-root makeStyles-text-125 MuiTypography-body1"
+    >
+      labels:Review_Assessments_Template_Que_Answer
+    </p>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-132"
+  />
+</div>
+`;
+
+exports[`SelectedTabTemplate should render correctly without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-111"
+  style="background-color: white;"
+>
+  <div
+    class="MuiBox-root MuiBox-root-119"
+  >
+    <p
+      class="MuiTypography-root makeStyles-text-114 makeStyles-heading-115 MuiTypography-body1"
+    >
+      labels:Review_Assessments_Template_Que_Heading
+    </p>
+    <div
+      class="MuiBox-root MuiBox-root-120 makeStyles-container-112"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-114 MuiTypography-body1"
+      >
+        labels:Review_Assessments_Template_Que_Question
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-text-114 makeStyles-marks-116 MuiTypography-body1"
+      >
+        labels:Review_Assessments_Template_Que_Marks
+      </p>
+    </div>
+    <ol
+      class="makeStyles-text-114 makeStyles-ol-117"
+      type="A"
+    >
+      <li
+        class="makeStyles-li-118"
+      >
+        labels:Review_Assessments_Template_Que_Option_1
+      </li>
+      <li
+        class="makeStyles-li-118"
+      >
+        labels:Review_Assessments_Template_Que_Option_2
+      </li>
+      <li
+        class="makeStyles-li-118"
+      >
+        labels:Review_Assessments_Template_Que_Option_3
+      </li>
+      <li
+        class="makeStyles-li-118"
+      >
+        labels:Review_Assessments_Template_Que_Option_4
+      </li>
+    </ol>
+    <p
+      class="MuiTypography-root makeStyles-text-114 MuiTypography-body1"
+    >
+      labels:Review_Assessments_Template_Que_Answer
+    </p>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-121"
+  />
+</div>
+`;
+
+exports[`Sub content of OptionCardContent should render correctly 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-176 makeStyles-content-174"
+>
+  <div
+    class="MuiBox-root MuiBox-root-177"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-178 makeStyles-container-171"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-170 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-179"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-180 makeStyles-container-171"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-170 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-181"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-182 makeStyles-container-171"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-170 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-183"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-184 makeStyles-container-171"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-170 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-185"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-186 makeStyles-container-171"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-170 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-187"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-188 makeStyles-container-171"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-170 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-189"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-190 makeStyles-container-171"
+      data-testid="custom-content"
+      style="padding: 10px;"
+    >
+      <p
+        class="MuiTypography-root makeStyles-text-170 MuiTypography-body1"
+        data-testid="custom-text"
+      />
+    </div>
+  </div>
+</div>
+`;
